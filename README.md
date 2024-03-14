@@ -96,7 +96,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
     </tr>
     <!-- Rebecca -->
     <tr>
-      <td><br><div style="text-align:center;"><b>Rebecca Oosthuizen</b><br><br><img src="Profiles/Rebecca.png" width="150"><br><br><b>u20512008</b><br><br></div></td>
+      <td><br><div style="text-align:center;"><b>Rebecca Oosthuizen</b><br><br><img src="[Profiles/Rebecca.png](https://drive.google.com/file/d/1Sg_clnUf7TiAjs5zsKw4MYXk8sTh4dKP/view?usp=drive_link)" width="150"><br><br><b>u20512008</b><br><br></div></td>
       <td><div style="text-align:center;"><a href="https://github.com/RebeccaOosthuizen">GitHub</a><br><a href="https://www.linkedin.com/in/rebecca-oosthuizen-643513152/">LinkedIn</a></div></td>
       <td>Business Analyst</td>
       <td>Description</td>
