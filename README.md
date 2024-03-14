@@ -43,7 +43,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div>  
-  <img align="right" src="Profiles/profile.png" width=180 height=180>
+  <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
 </div>
 <br><br><br><br><br><br>
 
