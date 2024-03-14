@@ -31,10 +31,10 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <table>
   <colgroup>
-    <col style="width: 25%;">
+    <col style="width: 35%;">
     <col style="width: 10%;">
     <col style="width: 15%">
-    <col style="width: 50%;">
+    <col style="width: 40%;">
   </colgroup>
   <thead>
     <tr>
