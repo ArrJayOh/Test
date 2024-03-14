@@ -44,7 +44,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Ruan -->
 <div>   
@@ -61,7 +61,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Mihail -->
 <div>   
@@ -78,7 +78,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Brian -->
 <div>   
@@ -95,7 +95,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Jiahao -->
 <div>   
@@ -112,7 +112,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Mekhail -->
 <div>   
@@ -129,7 +129,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Luke -->
 <div>   
@@ -146,7 +146,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Rebecca -->
 <div>   
@@ -163,7 +163,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Dawie -->
 <div>   
@@ -180,7 +180,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Carter -->
 <div>   
@@ -197,7 +197,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Xadrian -->
 <div>   
@@ -214,4 +214,4 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
