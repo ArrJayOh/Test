@@ -31,7 +31,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <table>
   <colgroup>
-    <col style="width: 200px;">
+    <col style="width: 500px;">
     <col style="width: 10%;">
     <col style="width: 15%">
     <col style="width: 55%;">
