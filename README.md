@@ -51,10 +51,10 @@ I'm a third-year computer science student who's really into data science, and I'
 <p>
   Email: u21448109@tuks.co.za
 </p>
-<a href="https://github.com/markbr02" target="_blank">
+<a href="https://github.com/markbr02">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
-<a href='https://www.linkedin.com/in/mark-botros-a11729266/' target="_blank">
+<a href='https://www.linkedin.com/in/mark-botros-a11729266/'
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br><br><br><br><br>
