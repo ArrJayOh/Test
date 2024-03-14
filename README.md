@@ -28,36 +28,158 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 
 ## Team Members
-**Mark Botros - u21448109** <br> Testing Engineer <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Sg_clnUf7TiAjs5zsKw4MYXk8sTh4dKP" width=200>
+
+<!-- Shiza -->
+**Shiza Butt - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
 <p>
-I'm a third-year computer science student who's really into data science, and I've got some hands-on experience with website development, databases, and a bit of AI. I've worked in the industry for a bit, and I believe that computer science can make the world a bit better, one function at a time. I'm a chill and friendly person, always down for connecting with others and sharing cool ideas. And hey, here's a computer science joke: Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+Description
 </p>
-<p>
-  Email: u21448109@tuks.co.za
-</p>
-<a href="https://github.com/markbr02">
+<a href=""> <!-- GitHub URL -->
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
-<a href='https://www.linkedin.com/in/mark-botros-a11729266/' >
+<a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
-
-Mark Botros - u21448109<br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Sg_clnUf7TiAjs5zsKw4MYXk8sTh4dKP" width=150>
+<!-- Ruan -->
+**Ruan Carlinsky - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
 <p>
-I'm a third-year computer science student who's really into data science, and I've got some hands-on experience with website development, databases, and a bit of AI. I've worked in the industry for a bit, and I believe that computer science can make the world a bit better, one function at a time. I'm a chill and friendly person, always down for connecting with others and sharing cool ideas. And hey, here's a computer science joke: Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+Description
 </p>
-<p>
-  Email: u21448109@tuks.co.za
-</p>
-<a href="https://github.com/markbr02">
+<a href=""> <!-- GitHub URL -->
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
-<a href='https://www.linkedin.com/in/mark-botros-a11729266/'
+<a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
+
+<!-- Mihail -->
+**Mihail Dicoski - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Brian -->
+**Brian Gates - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Jiahao -->
+**Jiahao Hu - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Mekhail -->
+**Mekhail Muller - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Luke -->
+**Luke Nobrega - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Rebecca -->
+**Rebecca Oosthuizen - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Dawie -->
+**Dawie Reyneke - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Carter -->
+**Carter Shin - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
+
+<!-- Xadrian -->
+**Xadrian van Heerden - u00000000** <br> Role <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<p>
+Description
+</p>
+<a href=""> <!-- GitHub URL -->
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
+<a href=""><!-- LinkedIn URL -->
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br><br><br><br>
 
