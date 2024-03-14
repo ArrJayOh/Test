@@ -30,6 +30,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 ## Team Members
 
 <!-- Shiza -->
+<div>
 **Shiza Butt - u00000000** <br> Testing Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -40,10 +41,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Ruan -->
+<div>
 **Ruan Carlinsky - u20416823** <br> DevOps <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=17SULgQA8KNScdVURbOC13r-12GjOBGz7" width=180>
 <p>
@@ -54,10 +56,11 @@ My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible f
 </a> 
 <a href=" https://www.linkedin.com/in/ruan-carlinsky-311872260/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Mihail -->
+<div>
 **Mihail Dicoski - u00000000** <br> Services Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -68,10 +71,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Brian -->
+<div>
 **Brian Gates - u00000000** <br> Integration Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -82,10 +86,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Jiahao -->
+<div>
 **Jiahao Hu - u00000000** <br> Data Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -96,10 +101,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Mekhail -->
+<div>
 **Mekhail Muller - u00000000** <br> UI Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -110,10 +116,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Luke -->
+<div>
 **Luke Nóbrega - u22517244** <br> Software Developer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1OcNyFQ0GCjjTh8OeDKWPoCMgfRXUTWdj" width=180>
 <p>
@@ -124,10 +131,11 @@ I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and t
 </a> 
 <a href="www.linkedin.com/in/luke-nobrega">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Rebecca -->
+<div>
 **Rebecca Oosthuizen - u00000000** <br> Business Analyst <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=14d-oY1ieHgmuZY9bjN7R_gpz3QT_xKtg" width=180>
 <p>
@@ -138,10 +146,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Dawie -->
+<div>
 **Dawie Reyneke - u00000000** <br> Testing Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -152,10 +161,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Carter -->
+<div>
 **Carter Shin - u00000000** <br> Designer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -166,10 +176,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br><br><br><br><br>
 
 <!-- Xadrian -->
+<div>
 **Xadrian van Heerden - u00000000** <br> Project Manager and Architect <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
@@ -180,5 +191,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></div>
 <br><br>
