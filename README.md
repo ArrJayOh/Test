@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a> 
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></details>details>
+</a></details>
 <br><br><br><br><br><br>
 
 <!-- Ruan -->
