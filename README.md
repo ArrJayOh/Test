@@ -30,11 +30,11 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 ## Team Members
 
 <!-- Shiza -->
-<div style="display:flex; align-items: center;justify-content: center;">  
+<div style="display:flex; align-items:center; justify-content:center;">  
   <div>
     <strong> Shiza Butt - u00000000 </strong><br> Testing Engineer <br><br>  
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+      Lorem ipsum dolor sit amet, 
     </p>
     <a href=""> <!-- GitHub URL -->
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
