@@ -154,7 +154,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
     <img align="right" src="https://drive.google.com/uc?export=view&id=14d-oY1ieHgmuZY9bjN7R_gpz3QT_xKtg" width=180 height=180>
     <p>Business Analyst</p>      
     <p>
-        Description
+        Hi there! I'm Rebecca, a final year Computer Science student passionate about all things tech. When I'm not trying to perfect an algorithm, you'll find me exploring the virtual realms of my favourite video games. Either way, I'm always keen for a challenge in the digital world!
     </p>
     <a href="https://github.com/RebeccaOosthuizen">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
