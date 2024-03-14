@@ -31,16 +31,16 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Name -->
 <div>   
-    <strong> Shiza Butt - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <strong> Shiza Butt - u21451631 </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1z60BKOYb2gJqk6TnLGHWb85BhJwRZZC8" width=180 height=180>
     <p>Testing Engineer</p>      
     <p>
-        Description
+        Hi there, Shiza here! Im a tech enthusiast with a passion for coding and problem-solving. I thrive in collaborative environments and enjoy turning ideas into elegant solutions.
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/shizaamir1615"> 
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="www.linkedin.com/in/shiza-butt">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -48,16 +48,16 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Ruan -->
 <div>   
-    <strong> Ruan Carlinsky - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <strong> Ruan Carlinsky - u20416823 </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=17SULgQA8KNScdVURbOC13r-12GjOBGz7" width=180 height=180>
     <p>DevOps</p>      
     <p>
-        Description
+        My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible for DevOps, ensuring seamless integration and deployment pipelines for optimal efficiency and performance. I find fulfilment in making a valuable contribution in whatever setting I find myself in, as well as venturing into uncharted territories that allow me the opportunity to reach the maximum of my potential!
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/gmovernight">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="https://www.linkedin.com/in/ruan-carlinsky-311872260/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -133,16 +133,16 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Luke -->
 <div>   
-    <strong> Luke Nobrega - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <strong> Luke Nóbrega - u22517244 </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1OcNyFQ0GCjjTh8OeDKWPoCMgfRXUTWdj" width=180 height=180>
     <p>Software Developer</p>      
     <p>
-        Description
+        I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/lukecn03">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="www.linkedin.com/in/luke-nobrega">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -150,16 +150,16 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Rebecca -->
 <div>   
-    <strong> Rebecca Oosthuizen - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <strong> Rebecca Oosthuizen - u20512008 </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=14d-oY1ieHgmuZY9bjN7R_gpz3QT_xKtg" width=180 height=180>
     <p>Business Analyst</p>      
     <p>
         Description
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/RebeccaOosthuizen">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="https://www.linkedin.com/in/rebecca-oosthuizen-643513152/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
