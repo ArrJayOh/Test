@@ -31,7 +31,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Shiza -->
 **Shiza Butt - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -45,7 +45,7 @@ Description
 
 <!-- Ruan -->
 **Ruan Carlinsky - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -59,7 +59,7 @@ Description
 
 <!-- Mihail -->
 **Mihail Dicoski - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -73,7 +73,7 @@ Description
 
 <!-- Brian -->
 **Brian Gates - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -87,7 +87,7 @@ Description
 
 <!-- Jiahao -->
 **Jiahao Hu - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -101,7 +101,7 @@ Description
 
 <!-- Mekhail -->
 **Mekhail Muller - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -115,7 +115,7 @@ Description
 
 <!-- Luke -->
 **Luke Nobrega - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -129,7 +129,7 @@ Description
 
 <!-- Rebecca -->
 **Rebecca Oosthuizen - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -143,7 +143,7 @@ Description
 
 <!-- Dawie -->
 **Dawie Reyneke - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -157,7 +157,7 @@ Description
 
 <!-- Carter -->
 **Carter Shin - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -171,7 +171,7 @@ Description
 
 <!-- Xadrian -->
 **Xadrian van Heerden - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=200>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
 </p>
@@ -182,4 +182,6 @@ Description
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br><br><br><br>
+
+
 
