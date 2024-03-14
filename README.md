@@ -28,22 +28,17 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 
 ## Team Members
-
-<table>
-  <tr>
-    <th style="width: 100px">Column 1 Header</th>
-    <th style="width: 200px">Column 2 Header</th>
-    <th style="width: 150px">Column 3 Header</th>
-  </tr>
-  <tr>
-    <td>Content 1</td>
-    <td>Content 2</td>
-    <td>Content 3</td>
-  </tr>
-  <tr>
-    <td>Content 4</td>
-    <td>Content 5</td>
-    <td>Content 6</td>
-  </tr>
-</table>
+| Member | Links | Role | Profile |
+|:-:|-|-|-|
+|<br> **Shiza Butt** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Testing Engineer | Yada yada yada blah blah blah |
+|<br> **Ruan Carlinsky** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| DevOps | Yada yada yada blah blah blah |
+|<br> **Mihail Dicoski** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Services Engineer | Yada yada yada blah blah blah |
+|<br> **Brian Gates** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Integration Engineer | Yada yada yada blah blah blah |
+|<br> **Jiahao Hu** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Data Engineer | Yada yada yada blah blah blah |
+|<br> **Mekhail Muller** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| UI Engineer | Yada yada yada blah blah blah |
+|<br> **Luke Nobrega** <br><br>![Profile](/Profiles/Luke.png)<br><br>u22517244<br><br>| [GitHub](https://github.com/lukecn03)<br>[LinkedIn](https://www.linkedin.com/in/luke-nobrega/)| Software Developer | I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way. |
+|<br> **Rebecca Oosthuizen** <br><br>![Profile](/Profiles/Rebecca.png)<br><br>u20512008<br><br>| [GitHub](https://github.com/RebeccaOosthuizen)<br>[LinkedIn](https://www.linkedin.com/in/rebecca-oosthuizen-643513152/)| Business Analyst | Yada yada yada blah blah blah |
+|<br> **Dawie Reyneke** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Testing Engineer | Yada yada yada blah blah blah |
+|<br> **Carter Shin** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Designer | Yada yada yada blah blah blah |
+|<br> **Xadrian van Heerden** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Project Manager <br> Architect | Yada yada yada blah blah blah |
 
