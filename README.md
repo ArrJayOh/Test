@@ -39,7 +39,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
     </p>
     <a href=""> <!-- GitHub URL -->
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
+    </a> <p> </p>
     <a href=""><!-- LinkedIn URL -->
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
