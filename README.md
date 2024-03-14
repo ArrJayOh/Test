@@ -30,8 +30,8 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 ## Team Members
 
 <!-- Shiza -->
-**Shiza Butt - u00000000** <br> Testing Engineer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Shiza Butt - u00000000** <br> Testing Engineer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -44,8 +44,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Ruan -->
-**Ruan Carlinsky - u20416823** <br> DevOps <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=17SULgQA8KNScdVURbOC13r-12GjOBGz7" width=180>
+**Ruan Carlinsky - u20416823** <br> DevOps <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=17SULgQA8KNScdVURbOC13r-12GjOBGz7" width=180>
 <p>
 My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible for DevOps, ensuring seamless integration and deployment pipelines for optimal efficiency and performance. I find fulfilment in making a valuable contribution in whatever setting I find myself in, as well as venturing into uncharted territories that allow me the opportunity to reach the maximum of my potential!
 </p>
@@ -58,8 +58,8 @@ My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible f
 <br><br><br><br><br><br>
 
 <!-- Mihail -->
-**Mihail Dicoski - u00000000** <br> Services Engineer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Mihail Dicoski - u00000000** <br> Services Engineer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -72,8 +72,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Brian -->
-**Brian Gates - u00000000** <br> Integration Engineer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Brian Gates - u00000000** <br> Integration Engineer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -86,8 +86,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Jiahao -->
-**Jiahao Hu - u00000000** <br> Data Engineer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Jiahao Hu - u00000000** <br> Data Engineer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -100,8 +100,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Mekhail -->
-**Mekhail Muller - u00000000** <br> UI Engineer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Mekhail Muller - u00000000** <br> UI Engineer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -114,8 +114,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Luke -->
-**Luke Nóbrega - u22517244** <br> Software Developer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1OcNyFQ0GCjjTh8OeDKWPoCMgfRXUTWdj" width=180>
+**Luke Nóbrega - u22517244** <br> Software Developer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1OcNyFQ0GCjjTh8OeDKWPoCMgfRXUTWdj" width=180>
 <p>
 I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.
 </p>
@@ -128,8 +128,8 @@ I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and t
 <br><br><br><br><br><br>
 
 <!-- Rebecca -->
-**Rebecca Oosthuizen - u00000000** <br> Business Analyst <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=14d-oY1ieHgmuZY9bjN7R_gpz3QT_xKtg" width=180>
+**Rebecca Oosthuizen - u00000000** <br> Business Analyst <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=14d-oY1ieHgmuZY9bjN7R_gpz3QT_xKtg" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -142,8 +142,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Dawie -->
-**Dawie Reyneke - u00000000** <br> Testing Engineer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Dawie Reyneke - u00000000** <br> Testing Engineer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -156,8 +156,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Carter -->
-**Carter Shin - u00000000** <br> Designer <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Carter Shin - u00000000** <br> Designer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
@@ -170,8 +170,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br><br><br><br><br><br>
 
 <!-- Xadrian -->
-**Xadrian van Heerden - u00000000** <br> Project Manager and Architect <br><br>
-<img align="left" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Xadrian van Heerden - u00000000** <br> Project Manager and Architect <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 </p>
