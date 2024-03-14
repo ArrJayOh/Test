@@ -30,6 +30,6 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 ## Team Members
 | Column 1 Header           | Column 2 Header | Column 3 Header |
 |:--------------------------|:----------------|:----------------|
-| Content 1                 | Content 2       | Content 3       |
+| Content 1                 .| Content 2       | Content 3       |
 | Content 4                 | Content 5       | Content 6       |
 
