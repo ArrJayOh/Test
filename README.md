@@ -30,7 +30,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 ## Team Members
 
 <!-- Shiza -->
-**Shiza Butt - u00000000** <br> Role <br>
+**Shiza Butt - u00000000** <br> Testing Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -44,21 +44,21 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Ruan -->
-**Ruan Carlinsky - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Ruan Carlinsky - u20416823** <br> DevOps <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=17SULgQA8KNScdVURbOC13r-12GjOBGz7" width=180>
 <p>
-Description
+My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible for DevOps, ensuring seamless integration and deployment pipelines for optimal efficiency and performance. I find fulfilment in making a valuable contribution in whatever setting I find myself in, as well as venturing into uncharted territories that allow me the opportunity to reach the maximum of my potential!
 </p>
-<a href=""> <!-- GitHub URL -->
+<a href="https://github.com/gmovernight"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
-<a href=""><!-- LinkedIn URL -->
+<a href=" https://www.linkedin.com/in/ruan-carlinsky-311872260/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br><br><br><br><br>
 
 <!-- Mihail -->
-**Mihail Dicoski - u00000000** <br> Role <br>
+**Mihail Dicoski - u00000000** <br> Services Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -72,7 +72,7 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Brian -->
-**Brian Gates - u00000000** <br> Role <br>
+**Brian Gates - u00000000** <br> Integration Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -86,7 +86,7 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Jiahao -->
-**Jiahao Hu - u00000000** <br> Role <br>
+**Jiahao Hu - u00000000** <br> Data Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -100,7 +100,7 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Mekhail -->
-**Mekhail Muller - u00000000** <br> Role <br>
+**Mekhail Muller - u00000000** <br> UI Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -114,22 +114,22 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Luke -->
-**Luke Nobrega - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Luke Nóbrega - u22517244** <br> Software Developer <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1OcNyFQ0GCjjTh8OeDKWPoCMgfRXUTWdj" width=180>
 <p>
-Description
+I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.
 </p>
-<a href=""> <!-- GitHub URL -->
+<a href="https://github.com/lukecn03"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
-<a href=""><!-- LinkedIn URL -->
+<a href="www.linkedin.com/in/luke-nobrega">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br><br><br><br><br>
 
 <!-- Rebecca -->
-**Rebecca Oosthuizen - u00000000** <br> Role <br>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
+**Rebecca Oosthuizen - u00000000** <br> Business Analyst <br>
+<img align="right" src="https://drive.google.com/uc?export=view&id=14d-oY1ieHgmuZY9bjN7R_gpz3QT_xKtg" width=180>
 <p>
 Description
 </p>
@@ -142,7 +142,7 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Dawie -->
-**Dawie Reyneke - u00000000** <br> Role <br>
+**Dawie Reyneke - u00000000** <br> Testing Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -156,7 +156,7 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Carter -->
-**Carter Shin - u00000000** <br> Role <br>
+**Carter Shin - u00000000** <br> Designer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -170,7 +170,7 @@ Description
 <br><br><br><br><br><br>
 
 <!-- Xadrian -->
-**Xadrian van Heerden - u00000000** <br> Role <br>
+**Xadrian van Heerden - u00000000** <br> Project Manager and Architect <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
 Description
@@ -182,3 +182,4 @@ Description
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br>
+
