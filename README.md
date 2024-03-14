@@ -29,8 +29,8 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 ## Team Members
 
-|         Member        | Links | Role | Profile |
-|:-:|-|-|-|
+| Member | Links | Role | Profile |
+|:------------------:|-|-|-|
 |<br> **Shiza Butt** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Testing Engineer | Yada yada yada blah blah blah |
 |<br> **Ruan Carlinsky** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| DevOps | Yada yada yada blah blah blah |
 |<br> **Mihail Dicoski** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Services Engineer | Yada yada yada blah blah blah |
