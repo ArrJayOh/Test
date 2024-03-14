@@ -31,7 +31,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 | Member | Links | Role | Profile |
 |:-:|-|-|-|
 |<br> **Shiza Butt** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Testing Engineer | Yada yada yada blah blah blah |
-|<br> **Ruan Carlinsky** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| DevOps | Yada yada yada blah blah blah |
+|<br> **Ruan Carlinsky** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| DevOps | My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible for DevOps, ensuring seamless integration and deployment pipelines for optimal efficiency and performance. I find fulfilment in making a valuable contribution in whatever setting I find myself in, as well as venturing into uncharted territories that allow me the opportunity to reach the maximum of my potential! |
 |<br> **Mihail Dicoski** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Services Engineer | Yada yada yada blah blah blah |
 |<br> **Brian Gates** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Integration Engineer | Yada yada yada blah blah blah |
 |<br> **Jiahao Hu** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Data Engineer | Yada yada yada blah blah blah |
