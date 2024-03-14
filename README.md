@@ -41,7 +41,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Ruan -->
 **Ruan Carlinsky - u00000000** <br> Role <br>
@@ -55,7 +55,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Mihail -->
 **Mihail Dicoski - u00000000** <br> Role <br>
@@ -69,7 +69,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Brian -->
 **Brian Gates - u00000000** <br> Role <br>
@@ -83,7 +83,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Jiahao -->
 **Jiahao Hu - u00000000** <br> Role <br>
@@ -97,7 +97,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Mekhail -->
 **Mekhail Muller - u00000000** <br> Role <br>
@@ -111,7 +111,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Luke -->
 **Luke Nobrega - u00000000** <br> Role <br>
@@ -125,7 +125,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Rebecca -->
 **Rebecca Oosthuizen - u00000000** <br> Role <br>
@@ -139,7 +139,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Dawie -->
 **Dawie Reyneke - u00000000** <br> Role <br>
@@ -153,7 +153,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Carter -->
 **Carter Shin - u00000000** <br> Role <br>
@@ -167,7 +167,7 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Xadrian -->
 **Xadrian van Heerden - u00000000** <br> Role <br>
@@ -181,7 +181,4 @@ Description
 <a href=""><!-- LinkedIn URL -->
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><br><br><br><br>
-
-
-
+<br><br>
