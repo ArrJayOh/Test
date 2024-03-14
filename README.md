@@ -28,7 +28,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 
 ## Team Members
-**Mark Botros** <br> u21448109<br>
+**Mark Botros u21448109** <br> Testing Engineer <br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Sg_clnUf7TiAjs5zsKw4MYXk8sTh4dKP" width=150>
 <p>
 I'm a third-year computer science student who's really into data science, and I've got some hands-on experience with website development, databases, and a bit of AI. I've worked in the industry for a bit, and I believe that computer science can make the world a bit better, one function at a time. I'm a chill and friendly person, always down for connecting with others and sharing cool ideas. And hey, here's a computer science joke: Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
