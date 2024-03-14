@@ -29,98 +29,16 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 ## Team Members
 
-<table>
-  <colgroup>
-    <col style="width: 500px;">
-    <col style="width: 10%;">
-    <col style="width: 15%">
-    <col style="width: 55%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Member</th>
-      <th>Links</th>
-      <th>Role</th>
-      <th>Profile</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Shiza -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Shiza Butt</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Testing Engineer</td>
-      <td>Description</td>
-    </tr>    
-    <!-- Ruan -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Ruan Carlinsky</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>DevOps</td>
-      <td>Description</td>
-    </tr>
-    <!-- Mihail -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Mihail Dicoski</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Services Engineer</td>
-      <td>Description</td>
-    </tr>
-    <!-- Brian -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Brian Gates</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Integration Engineer</td>
-      <td>Description</td>
-    </tr>
-    <!-- Jiahao -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Jiahao Hu</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Data Engineer</td>
-      <td>Description</td>
-    </tr>
-    <!-- Mekhail -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Mekhail Muller</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>UI Engineer</td>
-      <td>Description</td>
-    </tr>
-    <!-- Luke -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Luke Nóbrega</b><br><br><img src="Profiles/Luke.png" width="150"><br><br><b>u22517244</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="https://github.com/lukecn03">GitHub</a><br><a href="https://www.linkedin.com/in/luke-nobrega/">LinkedIn</a></div></td>
-      <td>Software Developer</td>
-      <td>I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.</td>
-    </tr>
-    <!-- Rebecca -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Rebecca Oosthuizen</b><br><br><img src="https://drive.google.com/uc?export=view&id=1Sg_clnUf7TiAjs5zsKw4MYXk8sTh4dKP" width="500px"><br><br><b>u20512008</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="https://github.com/RebeccaOosthuizen">GitHub</a><br><a href="https://www.linkedin.com/in/rebecca-oosthuizen-643513152/">LinkedIn</a></div></td>
-      <td>Business Analyst</td>
-      <td>Description</td>
-    </tr>
-    <!-- Dawie -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Dawie Reyneke</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Testing Engineer</td>
-      <td>Description</td>
-    </tr>
-    <!-- Carter -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Carter Shin</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Designer</td>
-      <td>Description</td>
-    </tr>
-    <!-- Xadrian -->
-    <tr>
-      <td><br><div style="text-align:center;"><b>Xadrian van Heerden</b><br><br><img src="Profiles/profile.png" width="150"><br><br><b>u00000000</b><br><br></div></td>
-      <td><div style="text-align:center;"><a href="GitHub_URL">GitHub</a><br><a href="LinkedIn_URL">LinkedIn</a></div></td>
-      <td>Project Manager and Architect</td>
-      <td>Description</td>
-    </tr>
-  </tbody>
-</table>
+| Member | Links | Role | Profile |
+|:-:|-|-|-|
+|<br> **Shiza Butt** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Testing Engineer | Yada yada yada blah blah blah |
+|<br> **Ruan Carlinsky** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| DevOps | Yada yada yada blah blah blah |
+|<br> **Mihail Dicoski** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Services Engineer | Yada yada yada blah blah blah |
+|<br> **Brian Gates** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Integration Engineer | Yada yada yada blah blah blah |
+|<br> **Jiahao Hu** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Data Engineer | Yada yada yada blah blah blah |
+|<br> **Mekhail Muller** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| UI Engineer | Yada yada yada blah blah blah |
+|<br> **Luke Nobrega** <br><br>![Profile](/Profiles/Luke.png)<br><br>u22517244<br><br>| [GitHub](https://github.com/lukecn03)<br>[LinkedIn](https://www.linkedin.com/in/luke-nobrega/)| Software Developer | I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way. |
+|<br> **Rebecca Oosthuizen** <br><br>![Profile](/Profiles/Rebecca.png)<br><br>u20512008<br><br>| [GitHub](https://github.com/RebeccaOosthuizen)<br>[LinkedIn](https://www.linkedin.com/in/rebecca-oosthuizen-643513152/)| Business Analyst | Yada yada yada blah blah blah |
+|<br> **Dawie Reyneke** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Testing Engineer | Yada yada yada blah blah blah |
+|<br> **Carter Shin** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Designer | Yada yada yada blah blah blah |
+|<br> **Xadrian van Heerden** <br><br>![Profile](profile.png)<br><br>u12345678<br><br>| [GitHub](link_to_github)<br>[LinkedIn](link_to_linkedin)| Project Manager <br> Architect | Yada yada yada blah blah blah |
