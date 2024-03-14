@@ -29,10 +29,9 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 ## Team Members
 
-| Member                                                       | Links     | Role         | Profile                                   |
 <table>
   <colgroup>
-    <col style="width: 100px;">
+    <col style="width: 6000px;">
     <col style="width: 200px;">
     <col style="width: 150px;">
   </colgroup>
