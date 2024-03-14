@@ -28,8 +28,22 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 
 ## Team Members
-| Column 1 Header           | Column 2 Header | Column 3 Header |
-|:--------------------------|:----------------|:----------------|
-| Content 1                 .| Content 2       | Content 3       |
-| Content 4                 | Content 5       | Content 6       |
+
+<table>
+  <tr>
+    <th style="width: 100px">Column 1 Header</th>
+    <th style="width: 200px">Column 2 Header</th>
+    <th style="width: 150px">Column 3 Header</th>
+  </tr>
+  <tr>
+    <td>Content 1</td>
+    <td>Content 2</td>
+    <td>Content 3</td>
+  </tr>
+  <tr>
+    <td>Content 4</td>
+    <td>Content 5</td>
+    <td>Content 6</td>
+  </tr>
+</table>
 
