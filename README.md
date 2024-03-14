@@ -30,7 +30,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 ## Team Members
 
 <!-- Shiza -->
-<div style="display=flex;">
+<div style="display=flex; align-items: center;">
 <strong> Shiza Butt - u00000000 </strong><br> Testing Engineer <br><br>
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180>
 <p>
