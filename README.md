@@ -31,7 +31,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Shiza -->
 <div style="display:flex; align-items:center; justify-content:center;">  
-  <div>
+  <div width = 100>
     <strong> Shiza Butt - u00000000 </strong><br> Testing Engineer <br><br>  
     <p>
       Lorem ipsum dolor sit amet, 
