@@ -188,7 +188,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
     <img align="right" src="https://drive.google.com/uc?export=view&id=1zsrJXkiPd7MvrFBE9rywWUS30F-MqCNF" width=180 height=180>
     <p>Designer</p>      
     <p>
-        Description
+        South Korean born 22 year old, who likes volleyball and basketball.
     </p>
     <a href="https://github.com/CarterShin">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
