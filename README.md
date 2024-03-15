@@ -44,7 +44,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Ruan -->
 <div>   
@@ -61,7 +61,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Mihail -->
 <div>   
@@ -78,7 +78,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Brian -->
 <div>   
@@ -95,7 +95,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Jiahao -->
 <div>   
@@ -112,24 +112,24 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Mekhail -->
 <div>   
-    <strong> Mekhail Muller - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <strong> Mekhail Muller - u21632792 </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1TxhO4JPHUxz6DtvgZ9c2QCenmu2oYfIA" width=180 height=180>
     <p>UI Engineer</p>      
     <p>
-        Description
+        I am a 23-year-old currently immersed in studying for a BSc in Information and Knowledge Systems. Although my original plan was to pursue a degree in Computer Science, fate led me down a different path, and I couldn't be happier. Both avenues ultimately converge towards an Honours in Computer Science, sparing me from some of the more challenging modules. My passions lie in game development and film, where I find endless inspiration and joy. Recently, I've been on a journey of recovery from Bickerstaff encephalitis, which has been an extremely challenging period in my life.
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/UnboundGlue"> 
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="https://www.linkedin.com/in/mekhail-muller-263084241/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Luke -->
 <div>   
@@ -146,7 +146,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Rebecca -->
 <div>   
@@ -163,7 +163,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Dawie -->
 <div>   
@@ -180,7 +180,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Carter -->
 <div>   
@@ -197,7 +197,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <!-- Xadrian -->
 <div>   
@@ -214,4 +214,4 @@ This project aims to create a simplified clone of the social network Twitter. Ou
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
-<br>
+<br><br><br><br><br><br>
