@@ -184,16 +184,16 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Carter -->
 <div>   
-    <strong> Carter Shin - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <strong> Carter Shin - u21470864 </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1zsrJXkiPd7MvrFBE9rywWUS30F-MqCNF" width=180 height=180>
     <p>Designer</p>      
     <p>
         Description
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/CarterShin">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="https://za.linkedin.com/in/carter-shin-b0483b243">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
