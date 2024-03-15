@@ -29,7 +29,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 ## Team Members
 
-<!-- Name -->
+<!-- Shiza -->
 <div>   
     <strong> Shiza Butt - u21451631 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1z60BKOYb2gJqk6TnLGHWb85BhJwRZZC8" width=180 height=180>
@@ -82,7 +82,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 
 <!-- Brian -->
 <div>   
-    <strong> Brian Gates - u00000000 </strong><br> 
+    <strong> Brian Gates - u22516728 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=140ASht85adXTXIlpqIcVsdTyYhAF5xno" width=180 height=180>
     <p>Integration Engineer</p>      
     <p>
