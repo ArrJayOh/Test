@@ -10,7 +10,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 - [MP9-Demo1](https://drive.google.com/file/d/1Ar_Q9at2GYO3TJcUI9TfhWGdDBgVqaxi/view?usp=sharing)
 
 ### Specifications
-- [Requirement Specification](https://github.com/ArrJayOh/Test/blob/main/Documentation/Requirements_Specification_v1.pdf)
+- [Requirement Specification](https://drive.google.com/drive/u/2/folders/1PHlhoWUtOHQ3nBT9aQ3Q3q28b4nLzpuO)
 - [Design Specification](link_to_design_spec)
 - [Architectural Specification](link_to_architectural_spec)
 - [Implementation Specification](link_to_implementation_spec)
