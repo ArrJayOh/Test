@@ -117,8 +117,8 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Mekhail -->
 <div>   
     <strong> Mekhail Muller - u21632792 </strong><br> 
-    <p>UI Engineer</p>      
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1TxhO4JPHUxz6DtvgZ9c2QCenmu2oYfIA" width=180 height=180>
+    <p>UI Engineer      
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1TxhO4JPHUxz6DtvgZ9c2QCenmu2oYfIA" width=180 height=180></p>
     <p>
         I am a 23-year-old currently immersed in studying for a BSc in Information and Knowledge Systems. Although my original plan was to pursue a degree in Computer Science, fate led me down a different path, and I couldn't be happier. Both avenues ultimately converge towards an Honours in Computer Science, sparing me from some of the more challenging modules. My passions lie in game development and film, where I find endless inspiration and joy. Recently, I've been on a journey of recovery from Bickerstaff encephalitis, which has been an extremely challenging period in my life.
     </p>
