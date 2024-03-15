@@ -40,7 +40,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
     <a href="https://github.com/shizaamir1615"> 
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href="www.linkedin.com/in/shiza-butt">
+    <a href="https://www.linkedin.com/in/shiza-butt">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -142,7 +142,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
     <a href="https://github.com/lukecn03">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href="www.linkedin.com/in/luke-nobrega">
+    <a href="https://www.linkedin.com/in/luke-nobrega">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
