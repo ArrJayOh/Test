@@ -66,16 +66,16 @@ This project aims to create a simplified clone of the social network X (previous
 
 <!-- Mihail -->
 <div>   
-    <strong> Mihail Dicoski - u00000000 </strong><br> 
+    <strong> Mihail Dicoski - u22495292 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1371TKmlUyxdlknHfY4QrDoro3qapbBtS" width=180 height=180>
     <p>Services Engineer</p>      
     <p>
-        Description
+        Third year Computer Science student, passionate about Mathematics as well as problem solving. Enjoy playing tennis in my spare time.
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="github.com/mihaildicoski">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="www.linkedin.com/in/mihail-dicoski-451760300">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -100,16 +100,16 @@ This project aims to create a simplified clone of the social network X (previous
 
 <!-- Jiahao -->
 <div>   
-    <strong> Jiahao Hu - u00000000 </strong><br> 
+    <strong> Jiahao Hu - u18234039 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=10XYv7ZJlsbbclR5YOB8l2YYjU6W9VVJZ" width=180 height=180>
     <p>Data Engineer</p>      
     <p>
-        Description
+        I am Jiahao Hu, a final year Information and knowledge system student, I want to be a pro without losing my hair
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/MrWhoCN">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="www.linkedin.com/in/jiahao-hu-b926122ba">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -168,16 +168,16 @@ This project aims to create a simplified clone of the social network X (previous
 
 <!-- Dawie -->
 <div>   
-    <strong> Dawie Reyneke - u00000000 </strong><br> 
+    <strong> Dawie Reyneke - u21438112 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1nCgmqlU-OxhO_p_UU_phsncVkR683WFS" width=180 height=180>
     <p>Testing Engineer</p>      
     <p>
-        Description
+        I'm Dawie Reyneke, currently studying for a BSc in Computer Science at the University of Pretoria. I've always been fascinated by coding and software development, exploring these interests from a young age. I'm dedicated to maintaining an active lifestyle and working hard in everything I do.
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/ReynekeD">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="https://www.linkedin.com/in/dawie-reyneke-46b291207/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -202,16 +202,16 @@ This project aims to create a simplified clone of the social network X (previous
 
 <!-- Xadrian -->
 <div>   
-    <strong> Xadrian van Heerden - u00000000 </strong><br> 
+    <strong> Xadrian van Heerden - u22699572 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1d9MzbdpogZz9uP9RyGTgPaS2__kfMuO9" width=180 height=180>
     <p>Project Manager and Architect</p>      
     <p>
-        Description
+        Hey, I'm Xadrian van Heerden, currently in my final year of BSc Computer Science. My passions range from figuring out new and interesting concepts in the world of tech to baking pastries and cakes in my free time. I definitely love to take a nap or two throughout the day. But most importantly, I enjoy challenging myself and trying new things to allow myself to grow and learn along the way. To end off, one of my favourite quotes is, "Whatever you do, always give 100% - unless you're donating blood." -  Bill Murray.
     </p>
-    <a href=""> <!-- GitHub URL -->
+    <a href="https://github.com/XadrianvHeerden"> <!-- GitHub URL -->
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href=""><!-- LinkedIn URL -->
+    <a href="https://www.linkedin.com/in/xadrian-van-heerden-05635123b/"><!-- LinkedIn URL -->
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
