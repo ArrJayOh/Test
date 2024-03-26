@@ -1,17 +1,18 @@
 # X Clone Mini Project
 
-## Group MP 9 - Twitter Clone - Project Description
+## Group MP 9 - X Clone - Project Description
 
-This project aims to create a simplified clone of the social network Twitter. Our goal is to mimic the design, functionalities and user experiences of Twitter's existing platform.
+This project aims to create a simplified clone of the social network X (previously known as Twitter). Our goal is replicate the design of the reference platform, as well as a selection of its functionalities and features.
 
 ## Documentation
 
 ### Demo Video
-- [MP9-Demo1](https://drive.google.com/file/d/1Ar_Q9at2GYO3TJcUI9TfhWGdDBgVqaxi/view?usp=sharing)
+- [MP9-Demo1]()
 
 ### Specifications
 - [Requirement Specification](https://drive.google.com/file/d/1gb0pZEf0OeQZecS7f2_3ZkZcQUQgEhDW/view?usp=sharing)
 - [Design Specification](link_to_design_spec)
+- [Database Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/Database_Speicification.md)
 - [Architectural Specification](link_to_architectural_spec)
 - [Implementation Specification](link_to_implementation_spec)
 - [Testing Specification](link_to_testing_spec)
@@ -32,7 +33,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Shiza -->
 <div>   
     <strong> Shiza Butt - u21451631 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1z60BKOYb2gJqk6TnLGHWb85BhJwRZZC8" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1lfo6xmMIT7fxcglYfpBIoPfidqFPjQSV" width=180 height=180>
     <p>Testing Engineer</p>      
     <p>
         Hi there, Shiza here! Im a tech enthusiast with a passion for coding and problem-solving. I thrive in collaborative environments and enjoy turning ideas into elegant solutions.
@@ -49,7 +50,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Ruan -->
 <div>   
     <strong> Ruan Carlinsky - u20416823 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=17SULgQA8KNScdVURbOC13r-12GjOBGz7" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1Hfmti-7tZ9SsvfTg7x9VSe4vaS3UJNk8" width=180 height=180>
     <p>DevOps</p>      
     <p>
         My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible for DevOps, ensuring seamless integration and deployment pipelines for optimal efficiency and performance. I find fulfilment in making a valuable contribution in whatever setting I find myself in, as well as venturing into uncharted territories that allow me the opportunity to reach the maximum of my potential!
@@ -66,7 +67,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Mihail -->
 <div>   
     <strong> Mihail Dicoski - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1371TKmlUyxdlknHfY4QrDoro3qapbBtS" width=180 height=180>
     <p>Services Engineer</p>      
     <p>
         Description
@@ -83,7 +84,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Brian -->
 <div>   
     <strong> Brian Gates - u22516728 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=140ASht85adXTXIlpqIcVsdTyYhAF5xno" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1MSbjhzglYQxppP28UMSRZm0vKL00DevL" width=180 height=180>
     <p>Integration Engineer</p>      
     <p>
         Currently completing my BSc in Computer Science wanting to specialize in Cyber Security
@@ -100,7 +101,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Jiahao -->
 <div>   
     <strong> Jiahao Hu - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=10XYv7ZJlsbbclR5YOB8l2YYjU6W9VVJZ" width=180 height=180>
     <p>Data Engineer</p>      
     <p>
         Description
@@ -117,8 +118,8 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Mekhail -->
 <div>   
     <strong> Mekhail Muller - u21632792 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1TxhO4JPHUxz6DtvgZ9c2QCenmu2oYfIA" width=180 height=180>
-    <p>UI Engineer</p>    
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1q8hBAmQCNOOHrIvp4FQd4Ftx0tOcgvvt" width=180 height=180>
+    <p>UI Engineer</p>      
     <p>
         I am a 23-year-old currently immersed in studying for a BSc in Information and Knowledge Systems. Although my original plan was to pursue a degree in Computer Science, fate led me down a different path, and I couldn't be happier. Both avenues ultimately converge towards an Honours in Computer Science, sparing me from some of the more challenging modules. My passions lie in game development and film, where I find endless inspiration and joy. Recently, I've been on a journey of recovery from Bickerstaff encephalitis, which has been an extremely challenging period in my life.
     </p>
@@ -134,7 +135,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Luke -->
 <div>   
     <strong> Luke Nóbrega - u22517244 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1OcNyFQ0GCjjTh8OeDKWPoCMgfRXUTWdj" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=15lBg7xFaEz7f6zRwwdX4p_2Wpxxu3HBv" width=180 height=180>
     <p>Software Developer</p>      
     <p>
         I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.
@@ -151,7 +152,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Rebecca -->
 <div>   
     <strong> Rebecca Oosthuizen - u20512008 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1FY-DcNY4ZOWv5USBOLQLdNU5TYGz9Eti" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1C0dyOhlLMc3PJ-YI2ieX-4REiwZRF1Q7" width=180 height=180>
     <p>Business Analyst</p>      
     <p>
         Hi there! I'm Rebecca, a final year Computer Science student passionate about all things tech. When I'm not trying to perfect an algorithm, you'll find me exploring the virtual realms of my favourite video games. Either way, I'm always keen for a challenge in the digital world!
@@ -168,7 +169,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Dawie -->
 <div>   
     <strong> Dawie Reyneke - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1nCgmqlU-OxhO_p_UU_phsncVkR683WFS" width=180 height=180>
     <p>Testing Engineer</p>      
     <p>
         Description
@@ -185,7 +186,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Carter -->
 <div>   
     <strong> Carter Shin - u21470864 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1zsrJXkiPd7MvrFBE9rywWUS30F-MqCNF" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1Wm4wjvDz-CX3WH2mGm-tNAbStLg-P2gV" width=180 height=180>
     <p>Designer</p>      
     <p>
         South Korean born 22 year old, who likes volleyball and basketball.
@@ -202,7 +203,7 @@ This project aims to create a simplified clone of the social network Twitter. Ou
 <!-- Xadrian -->
 <div>   
     <strong> Xadrian van Heerden - u00000000 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Ou8Yyw2a3MfgWW1_0OTrRqVwPQIDk5QR" width=180 height=180>
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1d9MzbdpogZz9uP9RyGTgPaS2__kfMuO9" width=180 height=180>
     <p>Project Manager and Architect</p>      
     <p>
         Description
