@@ -1,7 +1,6 @@
-<p style="font-size: 3em; text-align: center; font-weight: bold;">X CLONE</p>
-<p style="font-size: 2em; text-align: center;">Requirements Specification</p>
-<p style="font-size: 1em; text-align: center;">COS 301 Mini Project - Group MP9</p>
-<div align="center"><h1>This is large and centered text</h1></div>
+<div align="center"><p style="font-size: 3em;font-weight: bold;">X CLONE</p></div>
+<div align="center"><p style="font-size: 2em;">Requirements Specification</p></div>
+<div align="center"><p style="font-size: 1em;">COS 301 Mini Project - Group MP9</p></di
 
 
 
