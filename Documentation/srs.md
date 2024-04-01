@@ -1,6 +1,6 @@
-<div align="center"><p style="font-size: 300px;font-weight: bold;">X CLONE</p></div>
-<div align="center"><h1 style="font-size: 2em;">Requirements Specification</h1></div>
-<div align="center"><p style="font-size: 1em;">COS 301 Mini Project - Group MP9</p></div>
+<div align="center"><h1>X CLONE</h1></div>
+<div align="center"><h2>Requirements Specification</h2></div>
+<div align="center"><h3>COS 301 Mini Project - Group MP9</h3></div>
 
 
 
