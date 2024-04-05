@@ -268,14 +268,14 @@ The *X Clone* system shall:
 ## 3.3 Use Case Diagrams
 
 <p align="center">
-  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN" width=180 height=180>
   <br>
   <em>Diagram 1: Registration and Authentication Use Cases</em>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN" width=180 height=180>
   <br>
   <em>Diagram 2: Role Management Use Cases</em>
 </p>
@@ -319,5 +319,7 @@ The *X Clone* system shall:
 Reference Platform: https://twitter.com/ 
 
 IEEE Std 830-1998(R2009) 
+
+
 
 
