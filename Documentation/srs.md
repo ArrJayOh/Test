@@ -268,7 +268,7 @@ The *X Clone* system shall:
 ## 3.3 Use Case Diagrams
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN" width=180 height=180>
+  <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN">
   <br>
   <em>Diagram 1: Registration and Authentication Use Cases</em>
 </p>
