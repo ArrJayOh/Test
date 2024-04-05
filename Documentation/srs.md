@@ -269,40 +269,41 @@ The *X Clone* system shall:
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN">
+  <br>
   <em>Diagram 1: Registration and Authentication Use Cases</em>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN" width=180 height=180>
+  <img src="https://drive.google.com/uc?export=view&id=1YJiMFpyCva3XSDXi5QNvo2ntuc-k5jAv">
   <br>
   <em>Diagram 2: Role Management Use Cases</em>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=18JO3c3sziTZaIzGYsmzhfEve_yMN4Yef">
   <br>
   <em>Diagram 3: Content Posting and Interaction Use Cases</em>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=1EyHv3M5e3amwMBPsTNTL-5pLi15dKiHR">
   <br>
   <em>Diagram 4: Account Management Use Cases</em>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=12URZRJSwzKlTuIKJKsH6lf7ytnYC7ysn">
   <br>
   <em>Diagram 5: User Interaction Use Cases</em>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=16YlVe9_0QVufM54e6glLkREo5RgFEtdy">
   <br>
   <em>Diagram 6: Other Use Cases</em>
 </p>
@@ -318,7 +319,6 @@ The *X Clone* system shall:
 Reference Platform: https://twitter.com/ 
 
 IEEE Std 830-1998(R2009) 
-
 
 
 
