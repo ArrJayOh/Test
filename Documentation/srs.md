@@ -2,8 +2,6 @@
 <div align="center"><h2>Requirements Specification</h2></div>
 <div align="center"><p>COS 301 Mini Project - Group MP9</p></div>
 
-
-
 ## Table of Contents
 
 - [1\. Introduction](#1-introduction)
@@ -38,7 +36,9 @@
 
     - [3.1.3 Administrative Users](#313-administrative-users)
 
-  - [3.2 Other Requirements](#32-other-requirements)
+  - [3.2 Quality Requirements](#32-quality-requirements)
+
+  - [3.3 Use Case Diagrams](#33-use-case-diagrams)
 
 - [4\. Appendix](#4-appendix)
 
@@ -99,34 +99,31 @@ The following information is in this document:
 This section provides a background and context for the project by describing the factors that affect X Clone and its specific requirements, which are detailed in Section 3 of this document.
 
 ## 2.1 Product Functions
-
-The main function of X Clone is to provide a platform on which users can interact and share content with one another. Users of the product will be able to register with and create accounts on the platform. They can then use their account to interact with the platform through tweeting, retweeting, liking, following, and commenting. The product essentially provides an online environment in which its users can communicate and share content with one another through a variety of features.
+The main function of X Clone is to provide a platform on which users can interact and share content with one another. Users of the product will be able to register with and create accounts on the platform. They can then use their account to interact with the platform through tweeting, retweeting, liking, following, and commenting.  The product essentially provides an online environment in which its users can communicate and share content with one another through a variety of features.
 
 ## 2.2 User Characteristics
-
-This subsection of the SRS should describe those general characteristics of the intended users of the product including educational level, experience, and technical expertise. It should not be used to state specific requirements, but rather should provide the reasons why certain specific requirements are later specified in Section 3 of the SRS.
+This subsection of the SRS should describe those general characteristics of the intended users of the product including educational level, experience, and technical expertise. It should not be used to state specific requirements, but rather should provide the reasons why certain specific requirements are later specified in Section 3 of the SRS. 
 
 **1\. General Users:**
 These users form the vast majority of the user base. They generally don’t have a large amount of technical expertise but are likely to have some form of familiarity with online social media platforms. A general user would interact with the X Clone platform by creating an account, editing their profile, and utilizing the various forms of engagement with other users provided by the product.
 
 **2\. Premium Users:**
-Premium users form a subsection of general users. These users would generally interact with the platform in the same manner as general users, but have access to certain “perks”, like an increased character limit for their tweets, which are only available to them. Premium users also have a specific icon which appears next to their username, which indicates their premium status. On the reference platform, general users can attain a premium status by purchasing it, but we will manually select premium users in our implementation.
+Premium users form a subsection of general users. These users would generally interact with the platform in the same manner as general users, but have access to certain “perks”, like an increased character limit for their tweets, which are only available to them. Premium users also have a specific icon which appears next to their username, which indicates their premium status. On the reference platform, general users can attain a premium status by purchasing it, but this project implements a system whereby general users can apply for a premium role, and administrative users can approve or deny the request. 
 
 **3\. Administrative Users:** 
-These users interact with the administrative system and moderate the platform.
+These users moderate the platform and interact with the administrative and role system. 
 
 ## 2.3 Constraints
+There are a number of constraints by which the X Clone system must abide. The project’s constraints, as detailed below, have been set by both the project owner, and by the development team. 
 
-There are a number of constraints by which the X Clone system must abide. The project’s constraints, as detailed below, have been set by both the project owner, and by the development team.
-
-1. X Clone must be implemented using Supabase.
-2. X Clone and its contents need to be appropriate for a professional environment.
-3. The frontend frameworks that may be used in the development of X Clone are limited to Angular, React, Vue, Svelte, or Flutter.
-4. The backend frameworks that may be used in the development of X Clone are limited to Vanilla JavaScript/Typescript/Python using the Supabase libraries with the option of additionally using NestJS/Express/Fastify/Python FAST API.
-5. The structure of X Clone must adhere to a client-server architecture.
-6. X Clone’s design must be kept minimalistic and must exactly replicate that of the reference platform X.
-7. The development of X Clone must make use of an existing component library.
-8. X Clone’s deployment must take place through a CI/CD process.
+- C1.  X Clone’s implementation must use Supabase. 
+- C2.  X Clone and its contents need to be appropriate for a professional environment. 
+- C3.  The frontend frameworks that may be used in the development of X Clone are limited to Angular, React, Vue, Svelte, or Flutter. X Clone uses React in particular. 
+- C4.  The backend frameworks that may be used in the development of X Clone are limited to Vanilla JavaScript/Typescript/Python using the Supabase libraries with the option of additionally using NestJS/Express/Fastify/Python FAST API. X Clone uses JavaScript in particular. 
+- C5.  The structure of X Clone must adhere to a client-server architecture. 
+- C6.  X Clone’s design must be kept minimalistic and must exactly replicate that of the reference platform X. 
+- C7.  The development of X Clone must make use of an existing component library.  This project uses the Material UI React component library. 
+- C8.  X Clone’s deployment must take place through a CI/CD process.
 
 <br>
 
@@ -138,99 +135,189 @@ The following functional requirements are organized by user class.
 
 ### 3.1.1 General Users
 
-The _X Clone_ system shall:
+The *X Clone* system shall: 
 
-- R1 Provide a secure user registration and authentication process to users.
-  - R1.1 Allow users to create an account.
-    - R1.1.1 Require users to provide a unique username, password, and email address.
-  - R1.2 Require users to verify their email address before they have full access to their account.
-    - R1.2.1 Send a verification code to the email address provided by the user.
-    - R1.2.2 Require the user to input this code.
-    - R1.2.3 Verify that the user’s input matches with the emailed code.
-    - R1.2.4 Subsequently, give the user full access to their created account.
+**R1**  Provide a secure user registration and authentication process to users.
+- **R1.1**  Allow users to create an account. 
+  - **R1.1.1**  Require users to provide a unique username, password, and email address.
+- **R1.2**  Require users to verify their email address before they have full access to their account.
+  - **R1.2.1**  Send a verification code to the email address provided by the user.
+  - **R1.2.2**  Require the user to input this code.
+  - **R1.2.3**  Verify that the user’s input matches with the emailed code. 
+  - **R1.2.4**  Subsequently, give the user full access to their created account.
 <br><br>
-- R2 Allow users to create and post content.
-  - R2.1 Allow users to compose tweets with text that is limited to 280 characters.
-  - R2.2 Allow users to attach images and videos to their tweets.
-  - R2.3 Allow users to post their tweets to the platform.
-  - R2.4 Allow users to edit or delete their own posted tweets.
+
+**R2**  Allow users to create and post content.
+- **R2.1**  Allow users to compose tweets with text that is limited to 280 characters. 
+- **R2.2**  Allow users to attach images and videos to their tweets.
+- **R2.3**  Allow users to post their tweets to the platform.
+- **R2.4**  Allow users to edit or delete their own posted tweets. 
+- **R2.5**  Allow users to accept or reject an invite to partake in a collaborative post.
 <br><br>
-- R3 Allow users to view posted content.
-  - R3.1 Provide a homepage which displays posts in reverse chronological order.
-    - R3.1.1 Provide a “Following” timeline which exclusively displays posts from accounts that the user follows.
-    - R3.1.2 Provide a “For you” timeline which displays recent tweets from all users on the platform.
-    - R3.1 4 Enable a user to refresh their current timeline in order to display new tweets that have been posted from when the timeline was last loaded.
+
+**R3**  Allow users to view posted content. 
+- **R3.1**  Provide a homepage which displays posts in reverse chronological order.
+  - **R3.1.1**  Provide a “Following” timeline which exclusively displays posts from accounts that the user follows. 
+  - **R3.1.2**  Provide a “For you” timeline which displays recent tweets from all users on the platform. 
+  - **R3.1.3**  Enable a user to refresh their current timeline in order to display new tweets that have been posted from when the timeline was last loaded.
 <br><br>
-- R4 Allow users to interact with content.
-  - R4.1 Allow users to like tweets.
-  - R4.2 Allow users to retweet tweets.
-    - R4.2.1 Post the retweeted tweet to the user’s own profile and followers’ timelines.
-  - R4.3 Allow users to comment on tweets and can delete or edit their own comments.
-    - R4.3.1 Allow users to edit or delete their own comments.
-  - R4.4 Track and display the timestamp, likes, comments, and retweets on each tweet.
+
+**R4**  Allow users to interact with content. 
+- **R4.1**  Allow users to like tweets. 
+- **R4.2**  Allow users to retweet tweets. 
+  - **R4.2.1**  Post the retweeted tweet to the user’s own profile and followers’ timelines.
+- **R4.3**  Allow users to comment on tweets and can delete or edit their own comments.
+  - **R4.3.1**  Allow users to edit or delete their own comments.
+- **R4.4**  Track and display the timestamp, likes, comments, and retweets on each tweet.
 <br><br>
-- R5 Allow users to view their own and other’s profiles.
-  - R5.1 Display a user’s tweets, retweets, followers, and following list on their profile.
+
+**R5**  Allow users to view their own and other’s profiles. 
+- **R5.1**  Display a user’s tweets, retweets, followers, and following list on their profile.
 <br><br>
-- R6 Allow users to manage their profiles.
-  - R6.1 Allow users to edit their profile picture, bio, display name, email address, and password.
-  - R6.2 Allow users to manage the visibility of their profile.
-    - R6.2.1 Allow users to set their profile to public or private.
-    - R6.2.2 Adjust the profile’s visibility based on the user’s selection.
-  - R6.3 Allow users to deactivate or delete their accounts.
-    - R6.3.1 Provide users with the option deactivate or delete an account.
-    - R6.3.2 Confirm the user’s choice by requiring them to input their password.
-    - R6.3.3 Remove relevant data or adjust account visibility based on the user’s choice.
+
+**R6**  Allow users to manage their profiles. 
+- **R6.1**  Allow users to edit their profile picture, bio, display name, email address, and password. 
+- **R6.2**  Allow users to manage the visibility of their profile. 
+  - **R6.2.1**  Allow users to set their profile to public or private. 
+  - **R6.2.2**  Adjust the profile’s visibility based on the user’s selection.
+- **R6.3**  Allow users to deactivate or delete their accounts.
+  - **R6.3.1**  Provide users with the option deactivate or delete an account.
+  - **R6.3.2**  Confirm the user’s choice by requiring them to input their password. 
+  - **R6.3.3**  Remove relevant data or adjust account visibility based on the user’s choice.
 <br><br>
-- R7 Allow users to edit their application settings.
-  - R7.1 Include a settings page where users can edit visual and accessibility preferences.
-  - R7.2 Implement users’ preferences to their application.
+
+**R7**  Allow users to edit their application settings. 
+- **R7.1**  Include a settings page where users can edit visual and accessibility preferences. 
+- **R7.2**  Implement users’ preferences to their application.
 <br><br>
-- R8 Allow users to receive and view notifications.
-  - R8.1 Provide notification services to users for likes, comments, and new followers on their profile.
-  - R8.2 Include a notifications page where users can view all their notifications.
-  - R8.3 Implement toast notifications to display system notifications.
+
+**R8**  Allow users to receive and view notifications. 
+- **R8.1**  Provide notification services to users for likes, comments, and new followers on their profile. 
+- **R8.2**  Include a notifications page where users can view all their notifications.
+- **R8.3**  Implement toast notifications to display system notifications. 
 <br><br>
-- R9 Allow users to search for specific content and accounts.
-  - R9.1 Include a search page with a search bar and filters.
-  - R9.2 Display users and posts which match the search criteria.
+
+**R9**  Allow users to search for specific content and accounts.
+- **R9.1**  Include a search page with a search bar and filters. 
+- **R9.2**  Display users and posts which match the search criteria.
 <br><br>
-- R10 Provide a help page with contact information for where users can request assistance.
+
+**R10** Allow users to report tweets and accounts that violate community guidelines.
+<br><br>
+
+**R11** Provide a help page with contact information for where users can request assistance.
+<br><br>
+
+**R12** Allow users to request their account be upgraded to a premium user role.
+<br><br>
 
 ### 3.1.2 Premium Users
 
-Requirements **R1** and **R3** - **R10** are applicable to premium users. Additional requirements for this group are listed below.
+Requirements **R1** and **R3** - **R11** are applicable to premium users. Additional requirements for this group are detailed below. 
 
-The _X Clone_ system shall:
+The *X Clone* system shall:** 
 
-- R11 Allow users to create and post content.
-  - R11.1 Allow users to compose tweets with text that is limited to 1000 characters.
-  - R11.2 Allow users to attach images and videos to their tweets.
-  - R11.3 Allow users to post their tweets to the platform.
-  - R11.4 Allow users to edit or delete their own posted tweets.
-  - R11.5 Allow users to create collaborative posts.
-    - R11.5.1 Allow users to create a tweet and invite other users to collaborate on the tweet before it is posted.
-    - R11.5.2 Send the invite to the other users and allow them to accept or reject the request.
-    - R11.5.3 Post the tweet to the profiles and follower timelines of the collaborators who accepted the request.
+**R13** Allow users to create and post content.
+- **R13.1** Allow users to compose tweets with text that is limited to 1000 characters.
+- **R13.2** Allow users to attach images and videos to their tweets.
+- **R13.3** Allow users to post their tweets to the platform.
+- **R13.4** Allow users to edit or delete their own posted tweets. 
+- **R13.5** Allow users to accept or reject an invite to partake in a collaborative post.
+- **R13.6** Allow users to create collaborative posts.
+  - **R13.6.1**  Allow users to create a tweet and invite other users to accept or reject a request to collaborate on the tweet. 
+  - **R13.6.2**  Post the tweet to the profiles and follower timelines of the collaborators who accepted the request. 
+<br><br>
+
+**R14** Display a badge next to premium users’ usernames to indicate their role. 
 
 ### 3.1.3 Administrative Users
 
-Requirements for admin.
+Requirements **R1** - **R12** are applicable to administrative users. Additional requirements for this group are detailed below. 
 
-## 3.2 Other Requirements
+The *X Clone* system shall: 
+**R15** Allow users to change other users’ roles to premium user. 
+- **R15.1** Allow users to view premium user applications. 
+- **R15.2** Allow users to accept or reject the request.
+<br><br>
 
-<br>
+**R16** Allow users to invite other users to take on an administrative user role. 
+<br><br>
+
+**R17** Allow users to view and edit a list of reported tweets and user accounts. 
+<br><br>
+
+## 3.2 Quality Requirements
+1. **Performance<a name="_page6_x40.00_y67.92"></a>** 
+- **Scalability:** The X Clone system should be able to handle a reasonable number of concurrent users without experiencing a significant reduction in performance. 
+- **Response Time:** The response time for fundamental user operations like posting tweets and displaying a timeline should be minimal. Particularly, database queries should be optimized to maintain a high level of performance within the project’s limitations.
+- **Error Management:** The system should have a high level of fault tolerance. 
+<br><br>
+
+2. **Security<a name="_page6_x40.00_y202.92"></a>**  
+- **Authentication:** The user authentication process should be secure to prevent unauthorized access to user accounts. This is implemented using usernames, passwords, and email address authentication.
+- **Authorization:** Authorization techniques should be implemented securely to ensure users only have access to data and actions they are permitted to. 
+- **Data Storage:** Sensitive user and system data should be stored securely and encrypted where necessary to prevent data breaches and other security threats. 
+- **Data Integrity**: Data loss and corruption should be prevented by maintaining data integrity.
+<br><br>
+
+3. **Portability<a name="_page6_x40.00_y355.92"></a>** 
+- **Cross-Platform Support:**  The system will be accessible and compatible both on mobile and desktop devices. 
+- **Interoperability:** The system interacts with other external systems and services. This includes utilizing Supabase, an API, and the MUI library. 
+
+
+## 3.3 Use Case Diagrams
+
+<p align="center">
+  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <br>
+  <em>Diagram 1: Registration and Authentication Use Cases</em>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <br>
+  <em>Diagram 2: Role Management Use Cases</em>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <br>
+  <em>Diagram 3: Content Posting and Interaction Use Cases</em>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <br>
+  <em>Diagram 4: Account Management Use Cases</em>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <br>
+  <em>Diagram 5: User Interaction Use Cases</em>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="Aspose.Words.20498e31-b3d3-4b20-8656-a6f55d142010.003.png"/>
+  <br>
+  <em>Diagram 6: Other Use Cases</em>
+</p>
+<br><br>
 
 # 4\. Appendix
-
 ## 4.1 Acronyms, Abbreviations, and Definitions
-
-- Tweet – A user’s post on X and X Clone’s platforms.
+- Tweet – A user’s post on X and X Clone’s platforms. 
 - Retweet – The act of reposting a tweet from a different user.
 - Bio – A short description of a user which can be viewed on their profile.
 
 ## 4.2 References
+Reference Platform: https://twitter.com/ 
 
-Reference Platform: <https://twitter.com/>
+IEEE Std 830-1998(R2009) 
 
-Model for layout of this document: IEEE Std 830-1998(R2009)
+
