@@ -2,6 +2,8 @@
 <div align="center"><h2>Requirements Specification</h2></div>
 <div align="center"><p>COS 301 Mini Project - Group MP9</p></div>
 
+[Link To Requirement Specification PDF](https://drive.google.com/file/d/1Se39CWbREpYyRtcYRHsSlsEL56oFeYRm/view?usp=sharing)
+
 ## Table of Contents
 
 - [1\. Introduction](#1-introduction)
@@ -317,6 +319,10 @@ The *X Clone* system shall:
 
 ## 4.2 References
 Reference Platform: https://twitter.com/ 
+
+IEEE Std 830-1998(R2009) 
+
+
 
 IEEE Std 830-1998(R2009) 
 
