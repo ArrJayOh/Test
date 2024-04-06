@@ -2,7 +2,7 @@
 
 ## Group MP 9 - X Clone - Project Description
 
-This project aims to create a simplified clone of the social network X (previously known as Twitter). Our goal is replicate the design of the reference platform, as well as a selection of its functionalities and features.
+This project aims to create a simplified clone of the social network X (previously known as Twitter). Our goal is to replicate the design of the reference platform, as well as a selection of its functionalities and features.
 
 ## Documentation
 
@@ -10,13 +10,14 @@ This project aims to create a simplified clone of the social network X (previous
 - [MP9-Demo1]()
 
 ### Specifications
-- [Requirement Specification](https://drive.google.com/file/d/1gb0pZEf0OeQZecS7f2_3ZkZcQUQgEhDW/view?usp=sharing)
-- [Design Specification](link_to_design_spec)
-- [Database Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/Database_Speicification.md)
-- [Architectural Specification](link_to_architectural_spec)
+- [Requirement Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/SRS.md)
+- [Architectural Design Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/DesignArchitecture.md)
+- [Database Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/Database_Specification.md)
+<!---
 - [Implementation Specification](link_to_implementation_spec)
 - [Testing Specification](link_to_testing_spec)
 - [Delivery Specification](link_to_delivery_spec)
+---!>
 
 ### User Manual
 - [User Manual](link_to_manual)
@@ -25,7 +26,7 @@ This project aims to create a simplified clone of the social network X (previous
 - [Coding Standards](link_to_standards)
 
 ### Project Board
-- [GitHub Project Board](link_to_project_board)
+- [GitHub Project Board](https://github.com/orgs/COS301-SE-2024/projects/13)
 
 
 ## Team Members
