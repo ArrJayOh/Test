@@ -17,7 +17,7 @@ This project aims to create a simplified clone of the social network X (previous
 - [Implementation Specification](link_to_implementation_spec)
 - [Testing Specification](link_to_testing_spec)
 - [Delivery Specification](link_to_delivery_spec)
----!>
+--->
 
 ### User Manual
 - [User Manual](link_to_manual)
