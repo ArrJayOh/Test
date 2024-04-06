@@ -9,7 +9,7 @@ This project aims to create a simplified clone of the social network X (previous
 ### Demo Video
 - [MP9-Demo1]()
 
-### Specifications
+### Specifications Documents
 - [Requirement Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/SRS.md)
 - [Architectural Design Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/DesignArchitecture.md)
 - [Database Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/Database_Specification.md)
@@ -17,11 +17,11 @@ This project aims to create a simplified clone of the social network X (previous
 - [Implementation Specification](link_to_implementation_spec)
 - [Testing Specification](link_to_testing_spec)
 - [Delivery Specification](link_to_delivery_spec)
---->
+
 
 ### User Manual
 - [User Manual](link_to_manual)
-
+--->
 ### Coding Standards
 - [Coding Standards](link_to_standards)
 
