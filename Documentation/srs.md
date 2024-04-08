@@ -2,7 +2,7 @@
 <div align="center"><h2>Requirements Specification</h2></div>
 <div align="center"><p>COS 301 Mini Project - Group MP9</p></div>
 
-[Link To Requirement Specification PDF](https://drive.google.com/file/d/1Se39CWbREpYyRtcYRHsSlsEL56oFeYRm/view?usp=sharing)
+[Link To Requirement Specification PDF](https://drive.google.com/file/d/1AFYDFtQWE9UNpMBEjsBhu_hxqhhgw5CaMU4KewkGXT0/view?usp=sharing)
 
 ## Table of Contents
 
