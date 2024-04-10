@@ -2,7 +2,7 @@
 <div align="center"><h2>Requirements Specification</h2></div>
 <div align="center"><p>COS 301 Mini Project - Group MP9</p></div>
 
-[Link To Requirement Specification PDF](https://drive.google.com/file/d/1XdLuJ3q4FsKShKNaWJm6MnCjJn4FWvCR/view?usp=sharing)
+[Link To Requirement Specification PDF](https://drive.google.com/file/d/17xiDOEnzZwxAyCliwMVzmsXsIU4NJ8rS/view?usp=sharing)
 
 ## Table of Contents
 
@@ -286,7 +286,7 @@ collaborative posts. It fulfils requirements R2 and R13 (including their sub-poi
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1Ollhylkr27LlIugiRuc-crYzDzQAzQNP" width=500>
   <br>
-  <em>Figure 2: Content Creation and Management Subsystem</em>
+  <em>Figure 2: Content Creation and Management Subsystem Use Case Diagram</em>
 </p>
 <br><br>
 
@@ -296,7 +296,7 @@ fulfils requirements R3, R4, R5, and R9 (including their sub-points).
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1314ew0DjF5w_e9yYZVRySt0ji-BPVgwN" width=500>
   <br>
-  <em>Figure 3: Interaction and Display Subsystem</em>
+  <em>Figure 3: Interaction and Display Subsystem Use Case Diagram</em>
 </p>
 <br><br>
 
@@ -306,7 +306,7 @@ system messages. It fulfils requirement R8 (including its sub-points).
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1NLfBBKqZxXJNhlGvEeG-DyIJMEvaIoUR" width=500>
   <br>
-  <em>Figure 4: Notification Subsystem</em>
+  <em>Figure 4: Notification Subsystem Use Case Diagram</em>
 </p>
 <br><br>
 
@@ -316,7 +316,7 @@ requirements R10, R11, and R17 (including their sub-points).
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1qfKdAUgYlTH4gPLdw0u7EJYLsXjBQHQ0" width=500>
   <br>
-  <em>Figure 5: Reporting and Help Subsystem</em>
+  <em>Figure 5: Reporting and Help Subsystem Use Case Diagram</em>
 </p>
 <br><br>
 
@@ -327,7 +327,7 @@ sub-points).
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1Aosp9y_3AIu0pul29smsub9ccsXrX_AP" width=500>
   <br>
-  <em>Figure 6: Role Management Subsystem</em>
+  <em>Figure 6: Role Management Subsystem Use Case Diagram</em>
 </p>
 <br><br>
 
