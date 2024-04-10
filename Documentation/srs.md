@@ -361,7 +361,6 @@ Reference Platform: https://twitter.com/
 
 Model for layout of this document: IEEE Std 830-1998(R2009)
 
-IEEE Std 830-1998(R2009) 
 
 
 
