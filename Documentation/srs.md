@@ -38,8 +38,8 @@
 
     - [3.1.3 Administrative Users](#313-administrative-users)
    
-  - [3.2 Subsystems and Use Cases](#32-subsystems-and-uses)
- 
+  - [3.2 Subsystems and Use Cases](#32-subsystems-and-use-cases)
+
     - [3.2.1 Authentication and User Management Subsystem](#321-authentication-and-use-managemen-subsystem)
    
     - [3.2.2 Content Creation and Management Subsystem](322-content-creation-and-management-subsystem)
@@ -284,7 +284,7 @@ application settings. It includes fulfils R1, R6, and R7 (including their sub-po
 This subsystem handles the creation, posting, and subsequent editing and deleting of tweets and
 collaborative posts. It fulfils requirements R2 and R13 (including their sub-points).
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Ollhylkr27LlIugiRuc-crYzDzQAzQNP">
+  <img src="https://drive.google.com/uc?export=view&id=1Ollhylkr27LlIugiRuc-crYzDzQAzQNP" width=500>
   <br>
   <em>Figure 2: Content Creation and Management Subsystem</em>
 </p>
@@ -294,7 +294,7 @@ collaborative posts. It fulfils requirements R2 and R13 (including their sub-poi
 This subsystem deals with how users can view, search for, and interact with tweets and other accounts. It
 fulfils requirements R3, R4, R5, and R9 (including their sub-points).
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1314ew0DjF5w_e9yYZVRySt0ji-BPVgwN">
+  <img src="https://drive.google.com/uc?export=view&id=1314ew0DjF5w_e9yYZVRySt0ji-BPVgwN" width=500>
   <br>
   <em>Figure 3: Interaction and Display Subsystem</em>
 </p>
@@ -304,7 +304,7 @@ fulfils requirements R3, R4, R5, and R9 (including their sub-points).
 This subsystem is responsible for managing and displaying notifications related to user interactions and
 system messages. It fulfils requirement R8 (including its sub-points).
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1NLfBBKqZxXJNhlGvEeG-DyIJMEvaIoUR">
+  <img src="https://drive.google.com/uc?export=view&id=1NLfBBKqZxXJNhlGvEeG-DyIJMEvaIoUR" width=500>
   <br>
   <em>Figure 4: Notification Subsystem</em>
 </p>
@@ -314,7 +314,7 @@ system messages. It fulfils requirement R8 (including its sub-points).
 This subsystem involves the creation and management of user reports and providing help to users. It fulfils
 requirements R10, R11, and R17 (including their sub-points).
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1qfKdAUgYlTH4gPLdw0u7EJYLsXjBQHQ0">
+  <img src="https://drive.google.com/uc?export=view&id=1qfKdAUgYlTH4gPLdw0u7EJYLsXjBQHQ0" width=500>
   <br>
   <em>Figure 5: Reporting and Help Subsystem</em>
 </p>
@@ -325,7 +325,7 @@ This subsystem manages users changing their role/user class, including changing 
 and from general/premium to administrative. It fulfils requirements R12, R14, R15, and R16 (including their
 sub-points).
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Aosp9y_3AIu0pul29smsub9ccsXrX_AP">
+  <img src="https://drive.google.com/uc?export=view&id=1Aosp9y_3AIu0pul29smsub9ccsXrX_AP" width=500>
   <br>
   <em>Figure 6: Role Management Subsystem</em>
 </p>
