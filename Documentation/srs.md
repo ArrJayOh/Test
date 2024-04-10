@@ -40,7 +40,7 @@
    
   - [3.2 Subsystems and Use Cases](#32-subsystems-and-use-cases)
 
-    - [3.2.1 Authentication and User Management Subsystem](#321-authentication-and-use-managemen-subsystem)
+    - [3.2.1 Authentication and User Management Subsystem](#321-authentication-and-use-management-subsystem)
    
     - [3.2.2 Content Creation and Management Subsystem](322-content-creation-and-management-subsystem)
    
