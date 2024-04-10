@@ -2,7 +2,7 @@
 <div align="center"><h2>Requirements Specification</h2></div>
 <div align="center"><p>COS 301 Mini Project - Group MP9</p></div>
 
-[Link To Requirement Specification PDF](https://drive.google.com/file/d/1AFYDFtQWE9UNpMBEjsBhu_hxqhhgw5CaMU4KewkGXT0/view?usp=sharing)
+[Link To Requirement Specification PDF](https://drive.google.com/file/d/1XdLuJ3q4FsKShKNaWJm6MnCjJn4FWvCR/view?usp=sharing)
 
 ## Table of Contents
 
@@ -37,10 +37,28 @@
     - [3.1.2 Premium Users](#312-premium-users)
 
     - [3.1.3 Administrative Users](#313-administrative-users)
+   
+  - [3.2 Subsystems and Use Case Diagrams](#32-subsystems-and-use-case-diagrams)
+ 
+    - [3.2.1 Authentication and User Management Subsystem](#321-authentication-and-use-managemen-subsystem)
+   
+    - [3.2.2 Content Creation and Management Subsystem](322-content-creation-and-management-subsystem)
+   
+    - [3.2.3 Interaction and Display Subsystem](#323-interaction-and-display-subsystem)
+   
+    - [3.2.4 Notification Subsystem](#324-notification-subsystem)
+   
+    - [3.2.5 Reporting and Help Subsystem](#325-reporting-and-help-subsystem)
+   
+    - [3.2.6 Role Management Subsystem](#326-role-management-subsystem)
 
-  - [3.2 Quality Requirements](#32-quality-requirements)
+  - [3.3 Quality Requirements](#33-quality-requirements)
+    
+    - [3.3.1 Performance](#321-performance)
 
-  - [3.3 Use Case Diagrams](#33-use-case-diagrams)
+    - [3.3.2 Security](#332-security)
+
+    - [3.3.3 Portability](#333-portability)
 
 - [4\. Appendix](#4-appendix)
 
@@ -121,7 +139,7 @@ There are a number of constraints by which the X Clone system must abide. The pr
 - C1.  X Clone’s implementation must use Supabase. 
 - C2.  X Clone and its contents need to be appropriate for a professional environment. 
 - C3.  The frontend frameworks that may be used in the development of X Clone are limited to Angular, React, Vue, Svelte, or Flutter. X Clone uses React in particular. 
-- C4.  The backend frameworks that may be used in the development of X Clone are limited to Vanilla JavaScript/Typescript/Python using the Supabase libraries with the option of additionally using NestJS/Express/Fastify/Python FAST API. X Clone uses JavaScript in particular. 
+- C4.  The backend frameworks that may be used in the development of X Clone are limited to Vanilla JavaScript/Typescript/Python using the Supabase libraries with the option of additionally using NestJS/Express/Fastify/Python FAST API. X Clone uses JavaScript and TypeScript in particular. 
 - C5.  The structure of X Clone must adhere to a client-server architecture. 
 - C6.  X Clone’s design must be kept minimalistic and must exactly replicate that of the reference platform X. 
 - C7.  The development of X Clone must make use of an existing component library.  This project uses the Material UI React component library. 
@@ -217,7 +235,7 @@ The *X Clone* system shall:
 
 Requirements **R1** and **R3** - **R11** are applicable to premium users. Additional requirements for this group are detailed below. 
 
-The *X Clone* system shall:** 
+The *X Clone* system shall:
 
 **R13** Allow users to create and post content.
 - **R13.1** Allow users to compose tweets with text that is limited to 1000 characters.
@@ -248,68 +266,89 @@ The *X Clone* system shall:
 **R17** Allow users to view and edit a list of reported tweets and user accounts. 
 <br><br>
 
-## 3.2 Quality Requirements
-1. **Performance<a name="_page6_x40.00_y67.92"></a>** 
+## 3.2 Subsystems and Use Cases
+The following subsystems and associated use case diagrams have been identified from the functional
+requirements provided in section 3.1:
+
+### 3.2.1 Authentication and User Management Subsystem
+This subsystem deals with account creation and authentication, profile and account management, and
+application settings. It includes fulfils R1, R6, and R7 (including their sub-points).
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1K1ukcUyH7KAQn_ESDUFPaHHPvoJV3F3S">
+  <br>
+  <em>Figure 1: Authentication and User Management Subsystem Use Case Diagram</em>
+</p>
+<br><br>
+
+### 3.2.2 Content Creation and Management Subsystem
+This subsystem handles the creation, posting, and subsequent editing and deleting of tweets and
+collaborative posts. It fulfils requirements R2 and R13 (including their sub-points).
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Ollhylkr27LlIugiRuc-crYzDzQAzQNP">
+  <br>
+  <em>Figure 2: Content Creation and Management Subsystem</em>
+</p>
+<br><br>
+
+### 3.2.3 Interaction and Display Subsystem
+This subsystem deals with how users can view, search for, and interact with tweets and other accounts. It
+fulfils requirements R3, R4, R5, and R9 (including their sub-points).
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1314ew0DjF5w_e9yYZVRySt0ji-BPVgwN">
+  <br>
+  <em>Figure 3: Interaction and Display Subsystem</em>
+</p>
+<br><br>
+
+### 3.2.4 Notification Subsystem
+This subsystem is responsible for managing and displaying notifications related to user interactions and
+system messages. It fulfils requirement R8 (including its sub-points).
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1NLfBBKqZxXJNhlGvEeG-DyIJMEvaIoUR">
+  <br>
+  <em>Figure 4: Notification Subsystem</em>
+</p>
+<br><br>
+
+### 3.2.5 Reporting and Help Subsystem
+This subsystem involves the creation and management of user reports and providing help to users. It fulfils
+requirements R10, R11, and R17 (including their sub-points).
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1qfKdAUgYlTH4gPLdw0u7EJYLsXjBQHQ0">
+  <br>
+  <em>Figure 5: Reporting and Help Subsystem</em>
+</p>
+<br><br>
+
+### 3.2.6 Role Management Subsystem
+This subsystem manages users changing their role/user class, including changing from general to premium,
+and from general/premium to administrative. It fulfils requirements R12, R14, R15, and R16 (including their
+sub-points).
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Aosp9y_3AIu0pul29smsub9ccsXrX_AP">
+  <br>
+  <em>Figure 6: Role Management Subsystem</em>
+</p>
+<br><br>
+
+## 3.3 Quality Requirements
+
+### 3.3.1 Performance
 - **Scalability:** The X Clone system should be able to handle a reasonable number of concurrent users without experiencing a significant reduction in performance. 
 - **Response Time:** The response time for fundamental user operations like posting tweets and displaying a timeline should be minimal. Particularly, database queries should be optimized to maintain a high level of performance within the project’s limitations.
 - **Error Management:** The system should have a high level of fault tolerance. 
 <br><br>
 
-2. **Security<a name="_page6_x40.00_y202.92"></a>**  
+### 3.3.2 Security
 - **Authentication:** The user authentication process should be secure to prevent unauthorized access to user accounts. This is implemented using usernames, passwords, and email address authentication.
 - **Authorization:** Authorization techniques should be implemented securely to ensure users only have access to data and actions they are permitted to. 
 - **Data Storage:** Sensitive user and system data should be stored securely and encrypted where necessary to prevent data breaches and other security threats. 
 - **Data Integrity**: Data loss and corruption should be prevented by maintaining data integrity.
 <br><br>
 
-3. **Portability<a name="_page6_x40.00_y355.92"></a>** 
+### 3.3.3 Portability
 - **Cross-Platform Support:**  The system will be accessible and compatible both on mobile and desktop devices. 
 - **Interoperability:** The system interacts with other external systems and services. This includes utilizing Supabase, an API, and the MUI library. 
-
-
-## 3.3 Use Case Diagrams
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1aIp-UwRuCev6a6PxGLUmKxwyvn-vXwkN">
-  <br>
-  <em>Diagram 1: Registration and Authentication Use Cases</em>
-</p>
-<br><br>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1YJiMFpyCva3XSDXi5QNvo2ntuc-k5jAv">
-  <br>
-  <em>Diagram 2: Role Management Use Cases</em>
-</p>
-<br><br>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=18JO3c3sziTZaIzGYsmzhfEve_yMN4Yef">
-  <br>
-  <em>Diagram 3: Content Posting and Interaction Use Cases</em>
-</p>
-<br><br>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1EyHv3M5e3amwMBPsTNTL-5pLi15dKiHR">
-  <br>
-  <em>Diagram 4: Account Management Use Cases</em>
-</p>
-<br><br>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12URZRJSwzKlTuIKJKsH6lf7ytnYC7ysn">
-  <br>
-  <em>Diagram 5: User Interaction Use Cases</em>
-</p>
-<br><br>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=16YlVe9_0QVufM54e6glLkREo5RgFEtdy">
-  <br>
-  <em>Diagram 6: Other Use Cases</em>
-</p>
-<br><br>
 
 # 4\. Appendix
 ## 4.1 Acronyms, Abbreviations, and Definitions
@@ -320,7 +359,8 @@ The *X Clone* system shall:
 ## 4.2 References
 Reference Platform: https://twitter.com/ 
 
-IEEE Std 830-1998(R2009) 
+Model for layout of this document: IEEE Std 830-1998(R2009)
+
 
 
 
