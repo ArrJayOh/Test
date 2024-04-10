@@ -274,7 +274,7 @@ requirements provided in section 3.1:
 This subsystem deals with account creation and authentication, profile and account management, and
 application settings. It includes fulfils R1, R6, and R7 (including their sub-points).
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1K1ukcUyH7KAQn_ESDUFPaHHPvoJV3F3S">
+  <img src="https://drive.google.com/uc?export=view&id=1K1ukcUyH7KAQn_ESDUFPaHHPvoJV3F3S" width=500>
   <br>
   <em>Figure 1: Authentication and User Management Subsystem Use Case Diagram</em>
 </p>
