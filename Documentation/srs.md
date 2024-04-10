@@ -38,7 +38,7 @@
 
     - [3.1.3 Administrative Users](#313-administrative-users)
    
-  - [3.2 Subsystems and Use Case Diagrams](#32-subsystems-and-use-case-diagrams)
+  - [3.2 Subsystems and Use Cases](#32-subsystems-and-uses)
  
     - [3.2.1 Authentication and User Management Subsystem](#321-authentication-and-use-managemen-subsystem)
    
