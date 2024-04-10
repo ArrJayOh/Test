@@ -42,7 +42,7 @@
 
     - [3.2.1 Authentication and User Management Subsystem](#321-authentication-and-user-management-subsystem)
    
-    - [3.2.2 Content Creation and Management Subsystem](322-content-creation-and-management-subsystem)
+    - [3.2.2 Content Creation and Management Subsystem](#322-content-creation-and-management-subsystem)
    
     - [3.2.3 Interaction and Display Subsystem](#323-interaction-and-display-subsystem)
    
