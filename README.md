@@ -1,32 +1,34 @@
-# X Clone Mini Project
+# Budgie
 
-## Group MP 9 - X Clone - Project Description
-
-This project aims to create a simplified clone of the social network X (previously known as Twitter). Our goal is to replicate the design of the reference platform, as well as a selection of its functionalities and features.
+## Technocrats - Budgie - Project Description
+Budgie is a financial management tool designed to help users take control of their spending. Users can import bank statements, categorize their spending, and set financial goals. By predicting upcoming costs and sharing financial management insights, Budgie provides a comprehensive view how users can achieve monetary freedom.
 
 ## Documentation
 
 ### Demo Video
 - [MP9-Demo1]()
 
-### Specifications Documents
+### Specifications
 - [Requirement Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/SRS.md)
 - [Architectural Design Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/DesignArchitecture.md)
 - [Database Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/Database_Specification.md)
-<!---
-- [Implementation Specification](link_to_implementation_spec)
-- [Testing Specification](link_to_testing_spec)
-- [Delivery Specification](link_to_delivery_spec)
-
+- [Testing Specification](https://drive.google.com/file/d/15VlpAF-Vl_ewo0Ho0JeAhOv5cQ3gxLuh/view?usp=drive_link)
+- [GitHub Specifications](https://drive.google.com/file/d/1L6cYGAOXgO-Z92GkEbuKGN_fjCHjqBRd/view?usp=drive_link)
+- [CI/CD](https://drive.google.com/file/d/1ac-6cUskOFfHHwxN_MXRkZrcYeGCJlpr/view?usp=drive_link)
 
 ### User Manual
-- [User Manual](link_to_manual)
---->
+
 ### Coding Standards
-- [Coding Standards](link_to_standards)
+- [Coding Standards](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/CodingStandards.md)
 
 ### Project Board
 - [GitHub Project Board](https://github.com/orgs/COS301-SE-2024/projects/13)
+
+### GitHub Workflow Commands
+- [Gitflow Commands](https://drive.google.com/file/d/1MgfLMbL2kDy267ShWmtEkPj8NGzdheGH/view?usp=drive_link)
+
+### Project Cost Estimate
+- [Cost Estimate](https://drive.google.com/file/d/1AFYDFtQWE9UNpMBEjsBhu_hxqhhgw5CaMU4KewkGXT0/view?usp=sharing)
 
 
 ## Team Members
@@ -137,7 +139,7 @@ This project aims to create a simplified clone of the social network X (previous
 <div>   
     <strong> Luke Nóbrega - u22517244 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=15lBg7xFaEz7f6zRwwdX4p_2Wpxxu3HBv" width=180 height=180>
-    <p>Software Developer</p>      
+    <p>Architect</p>      
     <p>
         I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.
     </p>
@@ -205,7 +207,7 @@ This project aims to create a simplified clone of the social network X (previous
 <div>   
     <strong> Xadrian van Heerden - u22699572 </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1d9MzbdpogZz9uP9RyGTgPaS2__kfMuO9" width=180 height=180>
-    <p>Project Manager and Architect</p>      
+    <p>Project Manager</p>      
     <p>
         Hey, I'm Xadrian van Heerden, currently in my final year of BSc Computer Science. My passions range from figuring out new and interesting concepts in the world of tech to baking pastries and cakes in my free time. I definitely love to take a nap or two throughout the day. But most importantly, I enjoy challenging myself and trying new things to allow myself to grow and learn along the way. To end off, one of my favourite quotes is, "Whatever you do, always give 100% - unless you're donating blood." -  Bill Murray.
     </p>
