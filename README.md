@@ -12,7 +12,7 @@ Budgie is a financial management tool designed to help users take control of the
 - [Technocrats-Demo1]()
 
 ### Specifications
-- [Requirement Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/SRS.md)
+- [Requirement Specification]()
 <!-- - [Architectural Design Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/DesignArchitecture.md)
 - [Database Specification](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/Database_Specification.md)
 - [Testing Specification](https://drive.google.com/file/d/15VlpAF-Vl_ewo0Ho0JeAhOv5cQ3gxLuh/view?usp=drive_link)
@@ -22,7 +22,7 @@ Budgie is a financial management tool designed to help users take control of the
 ### User Manual
 
 ### Coding Standards
-- [Coding Standards](https://github.com/COS301-SE-2024/MiniProject9/blob/main/documentation/CodingStandards.md)
+- [Coding Standards]()
 
 ### Project Board
 - [GitHub Project Board](https://github.com/orgs/COS301-SE-2024/projects/13)
@@ -36,120 +36,37 @@ Budgie is a financial management tool designed to help users take control of the
 
 ## Team Members
 
-<!-- Shiza -->
+<!-- James -->
 <div>   
-    <strong> Shiza Butt - u21451631 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1lfo6xmMIT7fxcglYfpBIoPfidqFPjQSV" width=180 height=180>
-    <p>Testing Engineer</p>      
-    <p>
-        Hi there, Shiza here! Im a tech enthusiast with a passion for coding and problem-solving. I thrive in collaborative environments and enjoy turning ideas into elegant solutions.
-    </p>
-    <a href="https://github.com/shizaamir1615"> 
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
-    <a href="https://www.linkedin.com/in/shiza-butt">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
-<br><br><br><br>
-
-<!-- Ruan -->
-<div>   
-    <strong> Ruan Carlinsky - u20416823 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Hfmti-7tZ9SsvfTg7x9VSe4vaS3UJNk8" width=180 height=180>
-    <p>DevOps</p>      
-    <p>
-        My name is Ruan Carlinsky. I am a final-year IKS student, and I am responsible for DevOps, ensuring seamless integration and deployment pipelines for optimal efficiency and performance. I find fulfilment in making a valuable contribution in whatever setting I find myself in, as well as venturing into uncharted territories that allow me the opportunity to reach the maximum of my potential!
-    </p>
-    <a href="https://github.com/gmovernight">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
-    <a href="https://www.linkedin.com/in/ruan-carlinsky-311872260/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
-<br><br><br><br>
-
-<!-- Mihail -->
-<div>   
-    <strong> Mihail Dicoski - u22495292 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1371TKmlUyxdlknHfY4QrDoro3qapbBtS" width=180 height=180>
-    <p>Services Engineer</p>      
-    <p>
-        Third year Computer Science student, passionate about Mathematics as well as problem solving. Enjoy playing tennis in my spare time.
-    </p>
-    <a href="github.com/mihaildicoski">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
-    <a href="www.linkedin.com/in/mihail-dicoski-451760300">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
-<br><br><br><br>
-
-<!-- Brian -->
-<div>   
-    <strong> Brian Gates - u22516728 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1MSbjhzglYQxppP28UMSRZm0vKL00DevL" width=180 height=180>
-    <p>Integration Engineer</p>      
-    <p>
-        Currently completing my BSc in Computer Science wanting to specialize in Cyber Security
-    </p>
-    <a href="https://github.com/u22516728">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
-    <a href="https://za.linkedin.com/in/brian-gates-601491192">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
-<br><br><br><br>
-
-<!-- Jiahao -->
-<div>   
-    <strong> Jiahao Hu - u18234039 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=10XYv7ZJlsbbclR5YOB8l2YYjU6W9VVJZ" width=180 height=180>
-    <p>Data Engineer</p>      
-    <p>
-        I am Jiahao Hu, a final year Information and knowledge system student, I want to be a pro without losing my hair
-    </p>
-    <a href="https://github.com/MrWhoCN">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
-    <a href="www.linkedin.com/in/jiahao-hu-b926122ba">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
-<br><br><br><br>
-
-<!-- Mekhail -->
-<div>   
-    <strong> Mekhail Muller - u21632792 </strong><br> 
+    <strong> James Fitzsimons </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1q8hBAmQCNOOHrIvp4FQd4Ftx0tOcgvvt" width=180 height=180>
-    <p>UI Engineer</p>      
+    <p>Team Leader</p>      
     <p>
-        I am a 23-year-old currently immersed in studying for a BSc in Information and Knowledge Systems. Although my original plan was to pursue a degree in Computer Science, fate led me down a different path, and I couldn't be happier. Both avenues ultimately converge towards an Honours in Computer Science, sparing me from some of the more challenging modules. My passions lie in game development and film, where I find endless inspiration and joy. Recently, I've been on a journey of recovery from Bickerstaff encephalitis, which has been an extremely challenging period in my life.
+        I am currently in my final year of studying for a bachelor's degree in computer science. Throughout my studies, I have gained experience with JavaScript, C++, Python, Java, PHP, and various relevant frameworks and libraries such as React, NEXT, Angular, and Flutter. I am excited about the opportunity to take on this project and apply all the various areas of my knowledge that I currently have, as well as learn new technologies during the development of this project. I hope to leverage all the skills I have at my disposal, both technical and managerial, to ensure that our team is able to perform to the highest extent and empower every individual to realise their full potential as skilled software developers. 
     </p>
-    <a href="https://github.com/UnboundGlue"> 
+    <a href=""> 
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href="https://www.linkedin.com/in/mekhail-muller-263084241/">
+    <a href="">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
 <br><br><br><br>
 
-<!-- Luke -->
+<!-- Kabza -->
 <div>   
-    <strong> Luke Nóbrega - u22517244 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=15lBg7xFaEz7f6zRwwdX4p_2Wpxxu3HBv" width=180 height=180>
-    <p>Architect</p>      
+    <strong> Kabelo Chuene </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=15lBg7xFaEz7f6zRwwdX4p_2Wpxxu3HBv" width=180 height=180>     
     <p>
-        I'm Luke Nóbrega, currently studying a BSc in Computer Science. Computers and their inner workings have always captivated me, driving my passion for learning more each day. With a strong work ethic, I thrive on challenges and am not afraid to push beyond my comfort zone to expand my knowledge and skills. Some of my core values are trustworthiness and respect, believing it is essential in all aspects of life. Beyond academics, I enjoy being social and being active. I'm excited about delving deeper into the world of technology and making meaningful contributions along the way.
+        As a software engineering student with a passion for innovation and collaboration, I bring a diverse skill set to the table, with sufficient knowledge and experience in C++, Java, TypeScript, JavaScript, Angular, and Node.js. Additionally, my background in multimedia modules has exposed me to extensive UX/design concepts, further enriching my capabilities in creating user-centric solutions.
+My strengths lie in communication and teamwork. I thrive in collaborative environments, where ideas are shared freely, and collective efforts drive success. Whether it's working with fellow team members or engaging with stakeholders, I prioritise effective communication to ensure that everyone is aligned and motivated towards our common goals.
+What excites me most about this project is the opportunity it presents for continuous learning and growth. The dynamic nature of the project promises new challenges and experiences, which I eagerly embrace as avenues for expanding my skill set and pushing the boundaries of what I can achieve.
+I am dedicated to contributing my expertise and enthusiasm to the success of this project, leveraging my knowledge in programming and UX/design to deliver solutions that not only meet but exceed our client's expectations.
     </p>
     <a href="https://github.com/lukecn03">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href="https://www.linkedin.com/in/luke-nobrega">
+    <a href="">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
@@ -157,11 +74,13 @@ Budgie is a financial management tool designed to help users take control of the
 
 <!-- Rebecca -->
 <div>   
-    <strong> Rebecca Oosthuizen - u20512008 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1C0dyOhlLMc3PJ-YI2ieX-4REiwZRF1Q7" width=180 height=180>
-    <p>Business Analyst</p>      
+    <strong> Rebecca Oosthuizen </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1C0dyOhlLMc3PJ-YI2ieX-4REiwZRF1Q7" width=180 height=180>    
     <p>
-        Hi there! I'm Rebecca, a final year Computer Science student passionate about all things tech. When I'm not trying to perfect an algorithm, you'll find me exploring the virtual realms of my favourite video games. Either way, I'm always keen for a challenge in the digital world!
+        As a final-year computer science student with a strong foundation in C++, Java, JavaScript, HTML, Python, Node.js, React, and SQL, I bring a versatile set of technical skills to the Technocrats team. My experience with software development projects throughout my academic journey has equipped me with a solid understanding of the software development lifecycle and the ability to adapt to new challenges.
+In addition to my technical experience, I am also interested in user-centred design, blending both theoretical knowledge and practical experience to ensure our application is not only functional but also visually appealing.
+I generally focus on leveraging my organisational and time management skills to enhance team cohesion and efficiency. With my nature of being helpful, I strive to keep all team members aligned and informed.
+In this project, I am committed to further developing my communication skills while approaching new ideas and technologies with curiosity and a desire to understand them from the ground up. My eagerness to learn ensures that I not only apply my existing skills effectively but also continuously acquire new competencies that will contribute to the success of our project.
     </p>
     <a href="https://github.com/RebeccaOosthuizen">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -172,52 +91,35 @@ Budgie is a financial management tool designed to help users take control of the
 </div>
 <br><br><br><br>
 
-<!-- Dawie -->
+<!-- Zviko -->
 <div>   
-    <strong> Dawie Reyneke - u21438112 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1nCgmqlU-OxhO_p_UU_phsncVkR683WFS" width=180 height=180>
-    <p>Testing Engineer</p>      
+    <strong> Zvikomborero Tigere </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1nCgmqlU-OxhO_p_UU_phsncVkR683WFS" width=180 height=180>    
     <p>
-        I'm Dawie Reyneke, currently studying for a BSc in Computer Science at the University of Pretoria. I've always been fascinated by coding and software development, exploring these interests from a young age. I'm dedicated to maintaining an active lifestyle and working hard in everything I do.
+        'm a computer science student with a strong passion for databases, algorithms, and artificial intelligence. Throughout my studies, I've tackled diverse problems in computer science and beyond, honing my problem-solving skills. My practical experience spans web development and database development, which I've gained through various projects. I'm proficient in languages like JavaScript, TypeScript, PHP, Java, C++, Python and SQL.
+What drives me is my relentless pursuit of knowledge and my attention to detail. I thrive on staying updated with the latest technological advancements. As a team player, I'm committed to contributing my best to achieve our collective goals.
     </p>
     <a href="https://github.com/ReynekeD">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href="https://www.linkedin.com/in/dawie-reyneke-46b291207/">
+    <a href="">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
 <br><br><br><br>
 
-<!-- Carter -->
+<!-- Ashley -->
 <div>   
-    <strong> Carter Shin - u21470864 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1Wm4wjvDz-CX3WH2mGm-tNAbStLg-P2gV" width=180 height=180>
-    <p>Designer</p>      
+    <strong> Ashley Tullis </strong><br> 
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1Wm4wjvDz-CX3WH2mGm-tNAbStLg-P2gV" width=180 height=180>   
     <p>
-        South Korean born 22 year old, who likes volleyball and basketball.
+        I'm a third-year Computer Science student with a passion for delving into the intricacies of database systems, web development, and algorithms. While my heart lies in these areas, I'm enthusiastic about exploring diverse sectors within computer science to broaden my knowledge and skills. With a relentless drive for learning and a commitment to excellence, I approach every task with dedication and strive to achieve the best possible outcomes. I have experience with C++, Java, PHP, JavaScript, NodeJS, and Python. Beyond these technical skills, my strengths lie in my communication and adaptability.
+I am eager to use my knowledge and skills on this project while also coming across challenges and overcoming them and learning many things through this experience. 
     </p>
     <a href="https://github.com/CarterShin">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a> <br>
-    <a href="https://za.linkedin.com/in/carter-shin-b0483b243">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
-<br><br><br><br>
-
-<!-- Xadrian -->
-<div>   
-    <strong> Xadrian van Heerden - u22699572 </strong><br> 
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1d9MzbdpogZz9uP9RyGTgPaS2__kfMuO9" width=180 height=180>
-    <p>Project Manager</p>      
-    <p>
-        Hey, I'm Xadrian van Heerden, currently in my final year of BSc Computer Science. My passions range from figuring out new and interesting concepts in the world of tech to baking pastries and cakes in my free time. I definitely love to take a nap or two throughout the day. But most importantly, I enjoy challenging myself and trying new things to allow myself to grow and learn along the way. To end off, one of my favourite quotes is, "Whatever you do, always give 100% - unless you're donating blood." -  Bill Murray.
-    </p>
-    <a href="https://github.com/XadrianvHeerden"> <!-- GitHub URL -->
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a> <br>
-    <a href="https://www.linkedin.com/in/xadrian-van-heerden-05635123b/"><!-- LinkedIn URL -->
+    <a href="">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </div>
