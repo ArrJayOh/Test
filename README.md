@@ -1,4 +1,6 @@
-<img src="https://drive.google.com/uc?export=view&id=1KllWaEyvd0KYKAcWdLNmsmPrrx5CW8CX" width=100%>
+<div align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1KllWaEyvd0KYKAcWdLNmsmPrrx5CW8CX" width=100%>
+</div>
 <br><br>
 
 ## Technocrats - Budgie - Project Description
