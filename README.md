@@ -58,9 +58,9 @@ Budgie is a financial management tool designed to help users take control of the
     <strong> Kabelo Chuene </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=15lBg7xFaEz7f6zRwwdX4p_2Wpxxu3HBv" width=180 height=180>     
     <p>
-        As a software engineering student with a passion for innovation and collaboration, I bring a diverse skill set to the table, with sufficient knowledge and experience in C++, Java, TypeScript, JavaScript, Angular, and Node.js. Additionally, my background in multimedia modules has exposed me to extensive UX/design concepts, further enriching my capabilities in creating user-centric solutions.
-My strengths lie in communication and teamwork. I thrive in collaborative environments, where ideas are shared freely, and collective efforts drive success. Whether it's working with fellow team members or engaging with stakeholders, I prioritise effective communication to ensure that everyone is aligned and motivated towards our common goals.
-What excites me most about this project is the opportunity it presents for continuous learning and growth. The dynamic nature of the project promises new challenges and experiences, which I eagerly embrace as avenues for expanding my skill set and pushing the boundaries of what I can achieve.
+        As a software engineering student with a passion for innovation and collaboration, I bring a diverse skill set to the table, with sufficient knowledge and experience in C++, Java, TypeScript, JavaScript, Angular, and Node.js. Additionally, my background in multimedia modules has exposed me to extensive UX/design concepts, further enriching my capabilities in creating user-centric solutions. <br>
+My strengths lie in communication and teamwork. I thrive in collaborative environments, where ideas are shared freely, and collective efforts drive success. Whether it's working with fellow team members or engaging with stakeholders, I prioritise effective communication to ensure that everyone is aligned and motivated towards our common goals.<br>
+What excites me most about this project is the opportunity it presents for continuous learning and growth. The dynamic nature of the project promises new challenges and experiences, which I eagerly embrace as avenues for expanding my skill set and pushing the boundaries of what I can achieve.<br>
 I am dedicated to contributing my expertise and enthusiasm to the success of this project, leveraging my knowledge in programming and UX/design to deliver solutions that not only meet but exceed our client's expectations.
     </p>
     <a href="https://github.com/lukecn03">
@@ -77,9 +77,9 @@ I am dedicated to contributing my expertise and enthusiasm to the success of thi
     <strong> Rebecca Oosthuizen </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1C0dyOhlLMc3PJ-YI2ieX-4REiwZRF1Q7" width=180 height=180>    
     <p>
-        As a final-year computer science student with a strong foundation in C++, Java, JavaScript, HTML, Python, Node.js, React, and SQL, I bring a versatile set of technical skills to the Technocrats team. My experience with software development projects throughout my academic journey has equipped me with a solid understanding of the software development lifecycle and the ability to adapt to new challenges.
-In addition to my technical experience, I am also interested in user-centred design, blending both theoretical knowledge and practical experience to ensure our application is not only functional but also visually appealing.
-I generally focus on leveraging my organisational and time management skills to enhance team cohesion and efficiency. With my nature of being helpful, I strive to keep all team members aligned and informed.
+        As a final-year computer science student with a strong foundation in C++, Java, JavaScript, HTML, Python, Node.js, React, and SQL, I bring a versatile set of technical skills to the Technocrats team. My experience with software development projects throughout my academic journey has equipped me with a solid understanding of the software development lifecycle and the ability to adapt to new challenges.<br>
+In addition to my technical experience, I am also interested in user-centred design, blending both theoretical knowledge and practical experience to ensure our application is not only functional but also visually appealing.<br>
+I generally focus on leveraging my organisational and time management skills to enhance team cohesion and efficiency. With my nature of being helpful, I strive to keep all team members aligned and informed.<br>
 In this project, I am committed to further developing my communication skills while approaching new ideas and technologies with curiosity and a desire to understand them from the ground up. My eagerness to learn ensures that I not only apply my existing skills effectively but also continuously acquire new competencies that will contribute to the success of our project.
     </p>
     <a href="https://github.com/RebeccaOosthuizen">
@@ -96,7 +96,7 @@ In this project, I am committed to further developing my communication skills wh
     <strong> Zvikomborero Tigere </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1nCgmqlU-OxhO_p_UU_phsncVkR683WFS" width=180 height=180>    
     <p>
-        'm a computer science student with a strong passion for databases, algorithms, and artificial intelligence. Throughout my studies, I've tackled diverse problems in computer science and beyond, honing my problem-solving skills. My practical experience spans web development and database development, which I've gained through various projects. I'm proficient in languages like JavaScript, TypeScript, PHP, Java, C++, Python and SQL.
+        'm a computer science student with a strong passion for databases, algorithms, and artificial intelligence. Throughout my studies, I've tackled diverse problems in computer science and beyond, honing my problem-solving skills. My practical experience spans web development and database development, which I've gained through various projects. I'm proficient in languages like JavaScript, TypeScript, PHP, Java, C++, Python and SQL.<br>
 What drives me is my relentless pursuit of knowledge and my attention to detail. I thrive on staying updated with the latest technological advancements. As a team player, I'm committed to contributing my best to achieve our collective goals.
     </p>
     <a href="https://github.com/ReynekeD">
@@ -113,8 +113,9 @@ What drives me is my relentless pursuit of knowledge and my attention to detail.
     <strong> Ashley Tullis </strong><br> 
     <img align="right" src="https://drive.google.com/uc?export=view&id=1Wm4wjvDz-CX3WH2mGm-tNAbStLg-P2gV" width=180 height=180>   
     <p>
-        I'm a third-year Computer Science student with a passion for delving into the intricacies of database systems, web development, and algorithms. While my heart lies in these areas, I'm enthusiastic about exploring diverse sectors within computer science to broaden my knowledge and skills. With a relentless drive for learning and a commitment to excellence, I approach every task with dedication and strive to achieve the best possible outcomes. I have experience with C++, Java, PHP, JavaScript, NodeJS, and Python. Beyond these technical skills, my strengths lie in my communication and adaptability.
-I am eager to use my knowledge and skills on this project while also coming across challenges and overcoming them and learning many things through this experience. 
+        I'm a third-year Computer Science student with a passion for delving into the intricacies of database systems, web development, and algorithms. While my heart lies in these areas, I'm enthusiastic about exploring diverse sectors within computer science to broaden my knowledge and skills. With a relentless drive for learning and a commitment to excellence, I approach every task with dedication and strive to achieve the best possible outcomes. <br>
+I have experience with C++, Java, PHP, JavaScript, NodeJS, and Python. Beyond these technical skills, my strengths lie in my communication and adaptability.<br>
+I am eager to use my knowledge and skills on this project while also coming across challenges and overcoming them and learning many things through this experience. <br>
     </p>
     <a href="https://github.com/CarterShin">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
